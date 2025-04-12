@@ -1,0 +1,394 @@
+[
+  {
+    "tipo": "archivo",
+    "ruta": "actualizarVelas.js",
+    "extension": ".js",
+    "tamaño": 1069,
+    "vistaPrevia": "const fs = require('fs'); const archivo = './datos/velas.json'; // Leer las velas existentes let velas = JSON.parse(fs.readFileSync(archivo, 'utf8')); // Convertir todos los timestamps a formato ISO s"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "actualizar_historico.js",
+    "extension": ".js",
+    "tamaño": 1463,
+    "vistaPrevia": "// actualizar_historico.js const fs = require('fs'); const axios = require('axios'); const path = require('path'); const archivo = 'historico.json'; const par = 'USDTBRL'; const intervalo = '1m'; cons"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "autoentrenador.js",
+    "extension": ".js",
+    "tamaño": 1016,
+    "vistaPrevia": "const { exec } = require('child_process'); const fs = require('fs'); function notificar(titulo, contenido) { exec(`termux-notification --title \"${titulo}\" --content \"${contenido}\"`); } function entren"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "autolog.sh",
+    "extension": ".sh",
+    "tamaño": 296,
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/bash # Ruta al directorio base del proyecto cd ~/mi-bot-de-trading # Ejecutar el escaneo de archivos node tools/ls-scan.js >> logs/autolog.log 2>&1 # Agrega una l"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "backtest.json",
+    "extension": ".json",
+    "tamaño": 2,
+    "vistaPrevia": "[]"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": "backups"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "bot-inteligente.js",
+    "extension": ".js",
+    "tamaño": 1985,
+    "vistaPrevia": "// bot-inteligente.js const fs = require('fs'); const indicadores = require('./indicadores'); const patrones = require('./patrones'); const memoria = require('./memoria.json'); const datos = require('"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "bot.js",
+    "extension": ".js",
+    "tamaño": 900,
+    "vistaPrevia": "const fs = require('fs'); const { registrarResultado } = require('./registroResultados'); // Simulamos la detección de un patrón (esto sería reemplazado por tu lógica real) const patronDetectado = 'do"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "bot_actual_mal.js",
+    "extension": ".js",
+    "tamaño": 3146,
+    "vistaPrevia": "const fs = require('fs'); const axios = require('axios'); // CONFIGURACIÓN const simbolo = 'USDTBRL'; const intervalo = '1m'; const dias = 30; const montoInicial = 5; let balance = montoInicial; let h"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "bot_martingala.zip",
+    "extension": ".zip",
+    "tamaño": 2433,
+    "vistaPrevia": "PK\u0003\u0004\u0014\u0000\u0000\u0000\u0000\u0000M��Z��\u0002b�\u0002\u0000\u0000�\u0002\u0000\u0000\u0006\u0000\u0000\u0000bot.js // bot.js - Versión mejorada con autoajuste y registro const fs = require('fs'); const { analizarEstrategia } = require('./registroOperaciones'); const velas = JSO"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "bot_martingala_v2.zip",
+    "extension": ".zip",
+    "tamaño": 689,
+    "vistaPrevia": "PK\u0003\u0004\u0014\u0000\u0000\u0000\u0000\u0000���Z97b�I\u0000\u0000\u0000I\u0000\u0000\u0000\u0006\u0000\u0000\u0000bot.js// Código del bot actualizado con logging y ML console.log('Bot listo');PK\u0003\u0004\u0014\u0000\u0000\u0000\u0000\u0000���Z\u0003��]D\u0000\u0000\u0000D\u0000\u0000\u0000\u0005\u0000\u0000\u0000ml.js// Módulo de Machine Learning inicial console.log('ML obs"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "bot_simulacion.js",
+    "extension": ".js",
+    "tamaño": 2702,
+    "vistaPrevia": "const fs = require(\"fs\"); let capital = 300; const montoBase = 5; let montoActual = montoBase; const patrones = [ \"doji\", \"martillo\", \"estrella_fugaz\", \"envolvente_alcista\", \"envolvente_bajista\", \"4_r"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "candles.json",
+    "extension": ".json",
+    "tamaño": 689415,
+    "vistaPrevia": "[ { \"timestamp\": 1743957120000, \"open\": 5.888, \"high\": 5.888, \"low\": 5.887, \"close\": 5.888, \"volume\": 3245.6 }, { \"timestamp\": 1743957180000, \"open\": 5.888, \"high\": 5.888, \"low\": 5.887, \"close\": 5.888"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "chatgpt.sh",
+    "extension": ".sh",
+    "tamaño": 607,
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/bash # Archivo: chatgpt.sh # Directorios importantes JSON_FILE=\"logs/input_para_chatgpt.json\" DESTINO=\"chatgpt/para_enviar.json\" # Verificar que el archivo existe"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": "data"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "data/descargar_velas.js",
+    "extension": ".js",
+    "tamaño": 1563,
+    "vistaPrevia": "const fs = require('fs'); const https = require('https'); const symbol = 'USDTBRL'; const interval = '1m'; const limit = 1000; let now = Date.now(); let candles = []; let count = 0; function fetchCand"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "data/historical.json",
+    "extension": ".json",
+    "tamaño": 5726297,
+    "vistaPrevia": "[ { \"time\": 1741737060000, \"open\": 5.838, \"high\": 5.838, \"low\": 5.837, \"close\": 5.838, \"volume\": 8756.8 }, { \"time\": 1741737120000, \"open\": 5.838, \"high\": 5.838, \"low\": 5.837, \"close\": 5.838, \"volume\""
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "data/velas.json",
+    "extension": ".json",
+    "tamaño": 6028179,
+    "vistaPrevia": "[ { \"time\": 1741726620000, \"open\": 5.824, \"high\": 5.824, \"low\": 5.823, \"close\": 5.824, \"volume\": 7848 }, { \"time\": 1741726680000, \"open\": 5.824, \"high\": 5.824, \"low\": 5.823, \"close\": 5.823, \"volume\": "
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "data/verificar_cantidad.js",
+    "extension": ".js",
+    "tamaño": 146,
+    "vistaPrevia": "const fs = require('fs'); const data = JSON.parse(fs.readFileSync('historical.json', 'utf8')); console.log(`Cantidad de velas: ${data.length}`);"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "dataset_operaciones.csv",
+    "extension": ".csv",
+    "tamaño": 46,
+    "vistaPrevia": "timestamp,entrada,monto,resultado,comentarios"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": "datos"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "datos/resultados.json",
+    "extension": ".json",
+    "tamaño": 24669,
+    "vistaPrevia": "{ \"resultados\": [ { \"patron\": \"doji\", \"fecha\": \"2025-04-12T04:53:07.100Z\", \"fueGanadora\": true }, { \"resultado\": \"PERDEDORA\", \"capital\": 349 }, { \"resultado\": \"PERDEDORA\", \"capital\": 348 }, { \"resulta"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "datos/velas.json",
+    "extension": ".json",
+    "tamaño": 22930314,
+    "vistaPrevia": "[ { \"time\": 1734095640000, \"open\": 6.062, \"high\": 6.062, \"low\": 6.058, \"close\": 6.06, \"volume\": 15755.8 }, { \"time\": 1734095700000, \"open\": 6.06, \"high\": 6.06, \"low\": 6.059, \"close\": 6.06, \"volume\": 8"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "datos.json",
+    "extension": ".json",
+    "tamaño": 2895,
+    "vistaPrevia": "const fs = require('fs'); // Para manejar los archivos // Función para simular la estrategia function simularEstrategia(velas, tipoEstrategia = 'bajista') { let capital = 5; // Capital inicial let inv"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "descargarVelas.js",
+    "extension": ".js",
+    "tamaño": 1814,
+    "vistaPrevia": "// descargarVelas.js const fs = require('fs'); const axios = require('axios'); const path = require('path'); const symbol = 'USDTBRL'; const interval = '1m'; const limit = 1000; // máximo permitido po"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "download.js",
+    "extension": ".js",
+    "tamaño": 2038,
+    "vistaPrevia": "require('dotenv').config(); // Cargar las claves de la API desde el archivo .env const Binance = require('node-binance-api'); const fs = require('fs'); // Configurar la API de Binance const binance = "
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "entrenamiento-programado.js",
+    "extension": ".js",
+    "tamaño": 715,
+    "vistaPrevia": "const { exec } = require('child_process'); const hora = new Date().toLocaleTimeString('es-AR', { hour: '2-digit', minute: '2-digit' }); exec('node autoentrenador.js', (error, stdout, stderr) => { if ("
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "entrenamiento.js",
+    "extension": ".js",
+    "tamaño": 2763,
+    "vistaPrevia": "// entrenamiento.js const fs = require('fs'); const path = require('path'); const { detectarMartillo, detectarDoji, detectarEnvolventeAlcista, detectarEnvolventeBajista, detectarEstrellaFugaz, detecta"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "entrenamiento.zip",
+    "extension": ".zip",
+    "tamaño": 982,
+    "vistaPrevia": "PK\u0003\u0004\u0014\u0000\u0000\u0000\u0000\u0000+��Z����T\u0003\u0000\u0000T\u0003\u0000\u0000\u0010\u0000\u0000\u0000entrenamiento.js const fs = require('fs'); const csv = require('csv-parser'); const archivo = 'dataset_operaciones.csv'; const memoriaPath = 'memoria.json'; let patrones "
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "entrenamiento_120d.zip",
+    "extension": ".zip",
+    "tamaño": 1352,
+    "vistaPrevia": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000u��Z�@���\u0001\u0000\u0000(\u0004\u0000\u0000\u0010\u0000\u001c\u0000entrenamiento.jsUT \u0000\u0003.��g\u0012��gux \u0000\u0001\u0004�)\u0000\u0000\u0004�)\u0000\u0000uS͎�0\u0010��)���QKJۜ6�\u0013p@�G�\u0012�UUy�Iqq�b;Aeէ�\u0011x1&q܍��8\u0019?\u001e�g�J+렱�\u0001�?Za���M�2I<ԡ�=�����čE��� �� ��gU�4_��i�\u0018���j�f�� �x�Fp�x��kӪ� ��"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "entrenamiento_con_mas_patrones.zip",
+    "extension": ".zip",
+    "tamaño": 22,
+    "vistaPrevia": "PK\u0005\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "estado_patrones.json",
+    "extension": ".json",
+    "tamaño": 472,
+    "vistaPrevia": "{ \"patron_1\": { \"descripcion\": \"Patrón 4 velas verdes interrumpidas x4 por rojas y entrada a la baja\", \"estado\": \"activo\", \"efectividad\": 0.67 }, \"patron_2\": { \"descripcion\": \"Patrón 4 velas rojas int"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "evaluadorEfectividad.js",
+    "extension": ".js",
+    "tamaño": 1217,
+    "vistaPrevia": "const fs = require(\"fs\"); // Cargar la memoria con datos de patrones const memoria = JSON.parse(fs.readFileSync(\"memoria.json\", \"utf8\")); // Suponiendo que agregaste en memoria también los resultados "
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "fetchCandles.js",
+    "extension": ".js",
+    "tamaño": 1644,
+    "vistaPrevia": "// ~/backend/fetchCandles.js const fs = require('fs'); const https = require('https'); const symbol = 'USDTBRL'; const interval = '1m'; const limit = 1000; const maxCandles = 5000; // Cantidad total q"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "gestorPatrones.js",
+    "extension": ".js",
+    "tamaño": 852,
+    "vistaPrevia": "const fs = require('fs'); const rutaEstado = './estado_patrones.json'; function obtenerPatronesActivos() { const data = JSON.parse(fs.readFileSync(rutaEstado)); return Object.entries(data) .filter(([_"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "gestor_patrones.js",
+    "extension": ".js",
+    "tamaño": 1029,
+    "vistaPrevia": "const fs = require('fs'); const ESTADO_PATH = './estado_patrones.json'; const UMBRAL_DORMIR = 0.5; const UMBRAL_ACTIVAR = 0.6; function actualizarEstados(resultados) { const estados = JSON.parse(fs.re"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "historico.json",
+    "extension": ".json",
+    "tamaño": 218843,
+    "vistaPrevia": "[ [ 1744403940000, \"5.88300000\", \"5.88600000\", \"5.88300000\", \"5.88500000\", \"151396.50000000\", 1744403999999, \"890818.27850000\", 52, \"146912.70000000\", \"864436.17990000\", \"0\" ], [ 1744404000000, \"5.885"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "index.js",
+    "extension": ".js",
+    "tamaño": 1113,
+    "vistaPrevia": "const express = require(\"express\"); const cors = require(\"cors\"); const fs = require(\"fs\"); const path = require(\"path\"); const app = express(); const PORT = 3000; // Middleware app.use(cors()); // Le"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "indicadores.js",
+    "extension": ".js",
+    "tamaño": 1164,
+    "vistaPrevia": "// indicadores.js function calcularEMA(data, periodo) { const k = 2 / (periodo + 1); let ema = data.slice(0, periodo).reduce((a, b) => a + b, 0) / periodo; const resultados = [ema]; for (let i = perio"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": "logs"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "logs/input_para_chatgpt.json",
+    "extension": ".json",
+    "tamaño": 14181,
+    "vistaPrevia": "[ { \"tipo\": \"archivo\", \"ruta\": \"actualizarVelas.js\", \"vistaPrevia\": \"const fs = require('fs'); const archivo = './datos/velas.json'; // Leer las velas existentes let velas = JSON.parse(fs.readFileSync"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "logs/ls-scan.json",
+    "extension": ".json",
+    "tamaño": 16328,
+    "vistaPrevia": "[ { \"tipo\": \"archivo\", \"ruta\": \"actualizarVelas.js\", \"extension\": \".js\", \"tamaño\": 1069, \"vistaPrevia\": \"const fs = require('fs'); const archivo = './datos/velas.json'; // Leer las velas existentes le"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "logs/mapa_archivos.json",
+    "extension": ".json",
+    "tamaño": 245,
+    "vistaPrevia": "{ \"cambios\": [ { \"archivo\": \"resultados.json\", \"desde\": \"/data/data/com.termux/files/home/mi-bot-de-trading/resultados.json\", \"hacia\": \"/data/data/com.termux/files/home/mi-bot-de-trading/datos/resulta"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "logs/operaciones_log.txt",
+    "extension": ".txt",
+    "tamaño": 23887,
+    "vistaPrevia": "[2025-04-10T17:53:46.870Z] Interrupción 1 detectada en vela 2 [2025-04-10T17:53:46.905Z] Interrupción 1 detectada en vela 7 [2025-04-10T17:53:46.905Z] Interrupción 1 detectada en vela 11 [2025-04-10T1"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "memoria.json",
+    "extension": ".json",
+    "tamaño": 169,
+    "vistaPrevia": "{ \"4_rojas_y_una_verde\": 240774, \"martillo\": 33022879, \"doji\": 48455096, \"envolvente_bajista\": 46559, \"envolvente_alcista\": 52769, \"estrella_fugaz\": 192600 }"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "ml.js",
+    "extension": ".js",
+    "tamaño": 68,
+    "vistaPrevia": "// Módulo de Machine Learning inicial console.log('ML observando');"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "patrones.js",
+    "extension": ".js",
+    "tamaño": 1612,
+    "vistaPrevia": "// patrones.js function detectarMartillo(candela) { const cuerpo = Math.abs(candela.open - candela.close); const mechaInferior = Math.min(candela.open, candela.close) - candela.low; const mechaSuperio"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "patrones.json",
+    "extension": ".json",
+    "tamaño": 70666,
+    "vistaPrevia": "[ { \"tipo\": \"ALZA\", \"secuencia\": [ \"R\", \"V\", \"R\", \"R\", \"R\", \"V\", \"R\", \"V\", \"V\", \"R\" ], \"indice\": 10, \"resultado\": \"ganada\" }, { \"tipo\": \"ALZA\", \"secuencia\": [ \"V\", \"R\", \"R\", \"R\", \"V\", \"R\", \"V\", \"V\", \""
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "registroOperaciones.js",
+    "extension": ".js",
+    "tamaño": 64,
+    "vistaPrevia": "// Logging de operaciones console.log('Registrando operación');"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "registroResultados.js",
+    "extension": ".js",
+    "tamaño": 790,
+    "vistaPrevia": "const fs = require('fs'); const path = './resultados.json'; // Inicializar el archivo de resultados si no existe if (!fs.existsSync(path)) { fs.writeFileSync(path, JSON.stringify({ resultados: [] }));"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": "resultados"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "resultados/resumen-backtest.json",
+    "extension": ".json",
+    "tamaño": 608,
+    "vistaPrevia": "{ \"fecha\": \"2025-04-11T19:45:57.426Z\", \"entradasTotales\": 1022, \"ganadasReales\": 856, \"totalGanadas\": 857, \"perdidas\": 0, \"capitalFinal\": 1549.12, \"promedioMartingalaGanadora\": 0.19, \"fondoInteresComp"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "resultados_simulacion.json",
+    "extension": ".json",
+    "tamaño": 17918,
+    "vistaPrevia": "{ \"operaciones\": [ { \"patron\": \"cuervos_negros\", \"fueGanadora\": true, \"monto\": 5, \"capitalRestante\": 309.75, \"fecha\": \"2025-04-12T13:29:22.722Z\" }, { \"patron\": \"piercing\", \"fueGanadora\": false, \"monto"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": "scripts"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": "tools"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "tools/Organizador.js",
+    "extension": ".js",
+    "tamaño": 4003,
+    "vistaPrevia": "// tools/Organizador.js const fs = require('fs'); const path = require('path'); const readline = require('readline'); const directorioBase = path.resolve(__dirname, '..'); const mapaCambios = {}; cons"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "tools/autolog.sh",
+    "extension": ".sh",
+    "tamaño": 296,
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/bash # Ruta al directorio base del proyecto cd ~/mi-bot-de-trading # Ejecutar el escaneo de archivos node tools/ls-scan.js >> logs/autolog.log 2>&1 # Agrega una l"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "tools/ls-scan.js",
+    "extension": ".js",
+    "tamaño": 2081,
+    "vistaPrevia": "// tools/ls-scan.js const fs = require('fs'); const path = require('path'); const MAX_BYTES = 500; // bytes máximos que leerá de cada archivo para evitar archivos grandes const carpetaBase = path.reso"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "version-estable-bot-v1.txt",
+    "extension": ".txt",
+    "tamaño": 4045,
+    "vistaPrevia": "const fs = require('fs'); const rawData = fs.readFileSync('./data/historical.json', 'utf8'); const candles = JSON.parse(rawData); let capital = 350.0; let entryCount = 0; let winCount = 0; let lossCou"
+  }
+]

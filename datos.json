@@ -1,0 +1,67 @@
+const fs = require('fs');  // Para manejar los archivos
+
+// Función para simular la estrategia
+function simularEstrategia(velas, tipoEstrategia = 'bajista') {
+    let capital = 5;  // Capital inicial
+    let inversion = 10;  // Inversión inicial
+    let ganancias = 0;  // Contador de ganancias
+    let perdidas = 0;   // Contador de pérdidas
+    let martingala = false;
+
+    for (let i = 3; i < velas.length; i++) {
+        let resultado = 0;
+        let signalDetected = false;
+
+        // Detectar interrupción bajista
+        if (tipoEstrategia === 'bajista') {
+            if (velas[i].cierre < velas[i-1].cierre && velas[i-1].cierre < velas[i-2].cierre) {
+                signalDetected = true;
+                console.log(`Interrupción bajista detectada en vela ${i}`);
+            }
+        }
+        // Detectar interrupción alcista
+        if (tipoEstrategia === 'alcista') {
+            if (velas[i].cierre > velas[i-1].cierre && velas[i-1].cierre > velas[i-2].cierre) {
+                signalDetected = true;
+                console.log(`Interrupción alcista detectada en vela ${i}`);
+            }
+        }
+
+        // Si se detectó la señal, hacemos la operación
+        if (signalDetected) {
+            // Simulamos una ganancia o pérdida en base al resultado de la operación
+            const esGanancia = Math.random() > 0.5; // Simulación aleatoria para ganancia o pérdida
+
+            if (esGanancia) {
+                // Si ganamos, sumamos el 73% de la inversión
+                resultado = inversion * 0.73;
+                capital += resultado;
+                ganancias++;
+                console.log(`Ganaste ${resultado.toFixed(2)} USDT. Capital ahora es ${capital.toFixed(2)} USDT`);
+                martingala = false; // Resetear martingala
+                inversion = 10; // Volver a la inversión inicial
+            } else {
+                // Si perdemos, duplicamos la inversión para la siguiente operación (Martingala)
+                capital -= inversion;
+                perdidas++;
+                console.log(`Perdiste ${inversion.toFixed(2)} USDT. Capital ahora es ${capital.toFixed(2)} USDT`);
+                martingala = true;
+                inversion *= 2; // Duplicar la inversión
+            }
+        }
+    }
+
+    console.log(`--- Resumen ---`);
+    console.log(`Total de ganancias: ${ganancias}`);
+    console.log(`Total de pérdidas: ${perdidas}`);
+    console.log(`Capital final: ${capital.toFixed(2)} USDT`);
+}
+
+// Leer las velas desde el archivo datos.json
+const velas = JSON.parse(fs.readFileSync('datos.json', 'utf8'));  // Suponiendo que las velas están en datos.json
+
+// Ejecutar la simulación para la estrategia bajista
+simularEstrategia(velas, 'bajista');  // Probar la estrategia bajista
+
+// Ejecutar la simulación para la estrategia alcista
+simularEstrategia(velas, 'alcista');  // Probar la estrategia alcista

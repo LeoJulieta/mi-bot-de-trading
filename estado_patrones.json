@@ -1,0 +1,17 @@
+{
+  "patron_1": {
+    "descripcion": "Patrón 4 velas verdes interrumpidas x4 por rojas y entrada a la baja",
+    "estado": "activo",
+    "efectividad": 0.67
+  },
+  "patron_2": {
+    "descripcion": "Patrón 4 velas rojas interrumpidas x4 por verdes y entrada al alza",
+    "estado": "activo",
+    "efectividad": 0.61
+  },
+  "patron_3": {
+    "descripcion": "Patrón con doble vela verde tras la cuarta interrupción",
+    "estado": "dormido",
+    "efectividad": 0.42
+  }
+}

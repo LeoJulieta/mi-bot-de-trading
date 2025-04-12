@@ -1,0 +1,5782 @@
+[
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 10,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 11,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 12,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 13,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 14,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 15,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 16,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 17,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 18,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 19,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 20,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 21,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 22,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 23,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 24,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 25,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 26,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 27,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 28,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 29,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 30,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 31,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 32,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 33,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 34,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 35,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 36,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 37,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 38,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 57,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 58,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 59,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 60,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 61,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 62,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 63,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 64,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 70,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 71,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 72,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 73,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 74,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 75,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 76,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 77,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 78,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 79,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 80,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 81,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 82,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 83,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 84,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 85,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 86,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 88,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 89,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 90,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 91,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 92,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 93,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 100,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 101,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 102,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 103,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 104,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 105,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 106,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 107,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 108,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 109,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 110,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 118,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 119,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 120,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 121,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 122,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 123,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 124,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 125,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 126,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 127,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 128,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 129,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 130,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 131,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 132,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 133,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 134,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 136,
+    "resultado": null
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 137,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 138,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 139,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 140,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 143,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 144,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 145,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 146,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 147,
+    "resultado": null
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 148,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 150,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 151,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 152,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 153,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 154,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 155,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 156,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 157,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 158,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 159,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 160,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 161,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 162,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 163,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 164,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 172,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 173,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 174,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 175,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 176,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 177,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 190,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 191,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 192,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 193,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 194,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 195,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 196,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 197,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 198,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 199,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 200,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 201,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 202,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 203,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 204,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 205,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 206,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 207,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 208,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 209,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 211,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 212,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 213,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 214,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 215,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 216,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 217,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 218,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 219,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 220,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 221,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 222,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 223,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 224,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 225,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 226,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 227,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 228,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 231,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 232,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 233,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 234,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 235,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 236,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 237,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 238,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 239,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 240,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 241,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 253,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 254,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 255,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 256,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 257,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 258,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 259,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 261,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 262,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 266,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 267,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 268,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 269,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 270,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 273,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 274,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 275,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 276,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 277,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 278,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 279,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 280,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 281,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 282,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 283,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 284,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 285,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 286,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 287,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 288,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 289,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 290,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 291,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 292,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 293,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 294,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 295,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 296,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 297,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 298,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 299,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 300,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 301,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 302,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 303,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 304,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 305,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 306,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 307,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 308,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 309,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 310,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 311,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 312,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 313,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 314,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 315,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 316,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 317,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 318,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 319,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 320,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 321,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 322,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 323,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 324,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 325,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 326,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 327,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 328,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 329,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 335,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 336,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 337,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 338,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 339,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 342,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 343,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 344,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 346,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 347,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 348,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 349,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 350,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 351,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 352,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 353,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 354,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 355,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 356,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 357,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 358,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 359,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 360,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 362,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 363,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 364,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 365,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 366,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 367,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 368,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 369,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 370,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 382,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 383,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 384,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 385,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 386,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 387,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 388,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 389,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 390,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 403,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 404,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 405,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 406,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 407,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 408,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 409,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 410,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 411,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 412,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 413,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 414,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 421,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 426,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 427,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V"
+    ],
+    "indice": 428,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 429,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 430,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 431,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 432,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 433,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 434,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 435,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 436,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 437,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 438,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 439,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 440,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 441,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 442,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 443,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 444,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 445,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 446,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 447,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 448,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 449,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 467,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 468,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 469,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 470,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 471,
+    "resultado": null
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 472,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 473,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 474,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 475,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 476,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 477,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 480,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 481,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 482,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R"
+    ],
+    "indice": 483,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 484,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "ALZA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V"
+    ],
+    "indice": 485,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "R",
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V"
+    ],
+    "indice": 488,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "R",
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R"
+    ],
+    "indice": 489,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "R",
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V"
+    ],
+    "indice": 491,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "R",
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R"
+    ],
+    "indice": 492,
+    "resultado": "ganada"
+  },
+  {
+    "tipo": "BAJA",
+    "secuencia": [
+      "V",
+      "V",
+      "V",
+      "V",
+      "V",
+      "R",
+      "R",
+      "V",
+      "R",
+      "R"
+    ],
+    "indice": 493,
+    "resultado": "ganada"
+  }
+]

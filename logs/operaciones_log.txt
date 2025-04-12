@@ -1,0 +1,357 @@
+[2025-04-10T17:53:46.870Z] Interrupción 1 detectada en vela 2
+[2025-04-10T17:53:46.905Z] Interrupción 1 detectada en vela 7
+[2025-04-10T17:53:46.905Z] Interrupción 1 detectada en vela 11
+[2025-04-10T17:53:46.907Z] Interrupción 1 detectada en vela 27
+[2025-04-10T17:53:46.908Z] Interrupción 1 detectada en vela 30
+[2025-04-10T17:53:46.908Z] Interrupción 2 detectada en vela 31
+[2025-04-10T17:53:46.908Z] Interrupción 1 detectada en vela 34
+[2025-04-10T17:53:46.908Z] Interrupción 2 detectada en vela 35
+[2025-04-10T17:53:46.909Z] Interrupción 3 detectada en vela 36
+[2025-04-10T17:53:46.910Z] Interrupción 4 detectada en vela 37
+[2025-04-10T17:53:46.910Z] >>> Se detectaron 4 interrupciones en vela 37. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.911Z] Interrupción 5 detectada en vela 38
+[2025-04-10T17:53:46.912Z] >>> Entrada a la baja en vela 38
+[2025-04-10T17:53:46.912Z] >>> ¡Ganada en Martingala 1! Capital actual: 351.00 USDT
+[2025-04-10T17:53:46.912Z] Interrupción 1 detectada en vela 42
+[2025-04-10T17:53:46.912Z] Interrupción 2 detectada en vela 43
+[2025-04-10T17:53:46.912Z] Interrupción 1 detectada en vela 49
+[2025-04-10T17:53:46.912Z] Interrupción 1 detectada en vela 51
+[2025-04-10T17:53:46.912Z] Interrupción 1 detectada en vela 54
+[2025-04-10T17:53:46.912Z] Interrupción 2 detectada en vela 55
+[2025-04-10T17:53:46.912Z] Interrupción 3 detectada en vela 56
+[2025-04-10T17:53:46.913Z] Interrupción 1 detectada en vela 58
+[2025-04-10T17:53:46.913Z] Interrupción 1 detectada en vela 62
+[2025-04-10T17:53:46.913Z] Interrupción 2 detectada en vela 63
+[2025-04-10T17:53:46.913Z] Interrupción 3 detectada en vela 64
+[2025-04-10T17:53:46.913Z] Interrupción 1 detectada en vela 67
+[2025-04-10T17:53:46.913Z] Interrupción 2 detectada en vela 68
+[2025-04-10T17:53:46.913Z] Interrupción 1 detectada en vela 70
+[2025-04-10T17:53:46.913Z] Interrupción 2 detectada en vela 71
+[2025-04-10T17:53:46.913Z] Interrupción 3 detectada en vela 72
+[2025-04-10T17:53:46.913Z] Interrupción 4 detectada en vela 73
+[2025-04-10T17:53:46.913Z] >>> Se detectaron 4 interrupciones en vela 73. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.913Z] Interrupción 1 detectada en vela 78
+[2025-04-10T17:53:46.913Z] >>> Entrada a la baja en vela 78
+[2025-04-10T17:53:46.914Z] >>> Martingala 1 fallida. Perdida: -1.00 USDT
+[2025-04-10T17:53:46.914Z] >>> ¡Ganada en Martingala 2! Capital actual: 352.00 USDT
+[2025-04-10T17:53:46.914Z] Interrupción 1 detectada en vela 84
+[2025-04-10T17:53:46.914Z] Interrupción 1 detectada en vela 88
+[2025-04-10T17:53:46.914Z] Interrupción 1 detectada en vela 97
+[2025-04-10T17:53:46.914Z] Interrupción 1 detectada en vela 100
+[2025-04-10T17:53:46.914Z] Interrupción 2 detectada en vela 101
+[2025-04-10T17:53:46.914Z] Interrupción 3 detectada en vela 102
+[2025-04-10T17:53:46.914Z] Interrupción 1 detectada en vela 106
+[2025-04-10T17:53:46.914Z] Interrupción 2 detectada en vela 107
+[2025-04-10T17:53:46.914Z] Interrupción 1 detectada en vela 109
+[2025-04-10T17:53:46.914Z] Interrupción 2 detectada en vela 110
+[2025-04-10T17:53:46.914Z] Interrupción 3 detectada en vela 111
+[2025-04-10T17:53:46.914Z] Interrupción 1 detectada en vela 113
+[2025-04-10T17:53:46.914Z] Interrupción 2 detectada en vela 114
+[2025-04-10T17:53:46.914Z] Interrupción 3 detectada en vela 115
+[2025-04-10T17:53:46.915Z] Interrupción 1 detectada en vela 120
+[2025-04-10T17:53:46.915Z] Interrupción 2 detectada en vela 121
+[2025-04-10T17:53:46.915Z] Interrupción 3 detectada en vela 122
+[2025-04-10T17:53:46.915Z] Interrupción 1 detectada en vela 124
+[2025-04-10T17:53:46.915Z] Interrupción 1 detectada en vela 127
+[2025-04-10T17:53:46.915Z] Interrupción 1 detectada en vela 131
+[2025-04-10T17:53:46.915Z] Interrupción 2 detectada en vela 132
+[2025-04-10T17:53:46.915Z] Interrupción 1 detectada en vela 134
+[2025-04-10T17:53:46.915Z] Interrupción 1 detectada en vela 137
+[2025-04-10T17:53:46.915Z] Interrupción 2 detectada en vela 138
+[2025-04-10T17:53:46.915Z] Interrupción 1 detectada en vela 146
+[2025-04-10T17:53:46.915Z] Interrupción 1 detectada en vela 150
+[2025-04-10T17:53:46.915Z] Interrupción 1 detectada en vela 154
+[2025-04-10T17:53:46.915Z] Interrupción 2 detectada en vela 155
+[2025-04-10T17:53:46.915Z] Interrupción 3 detectada en vela 156
+[2025-04-10T17:53:46.915Z] Interrupción 4 detectada en vela 157
+[2025-04-10T17:53:46.916Z] >>> Se detectaron 4 interrupciones en vela 157. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.916Z] Interrupción 5 detectada en vela 158
+[2025-04-10T17:53:46.916Z] >>> Entrada a la baja en vela 158
+[2025-04-10T17:53:46.916Z] >>> Martingala 1 fallida. Perdida: -1.00 USDT
+[2025-04-10T17:53:46.916Z] >>> Martingala 2 fallida. Perdida: -2.00 USDT
+[2025-04-10T17:53:46.916Z] >>> Martingala 3 fallida. Perdida: -4.00 USDT
+[2025-04-10T17:53:46.916Z] >>> Martingala 4 fallida. Perdida: -8.00 USDT
+[2025-04-10T17:53:46.916Z] >>> ¡Ganada en Martingala 5! Capital actual: 353.00 USDT
+[2025-04-10T17:53:46.916Z] Interrupción 1 detectada en vela 189
+[2025-04-10T17:53:46.916Z] Interrupción 1 detectada en vela 194
+[2025-04-10T17:53:46.916Z] Interrupción 1 detectada en vela 200
+[2025-04-10T17:53:46.916Z] Interrupción 2 detectada en vela 201
+[2025-04-10T17:53:46.916Z] Interrupción 3 detectada en vela 202
+[2025-04-10T17:53:46.916Z] Interrupción 1 detectada en vela 204
+[2025-04-10T17:53:46.917Z] Interrupción 2 detectada en vela 205
+[2025-04-10T17:53:46.917Z] Interrupción 3 detectada en vela 206
+[2025-04-10T17:53:46.917Z] Interrupción 1 detectada en vela 216
+[2025-04-10T17:53:46.917Z] Interrupción 1 detectada en vela 219
+[2025-04-10T17:53:46.917Z] Interrupción 1 detectada en vela 222
+[2025-04-10T17:53:46.917Z] Interrupción 1 detectada en vela 227
+[2025-04-10T17:53:46.917Z] Interrupción 2 detectada en vela 228
+[2025-04-10T17:53:46.917Z] Interrupción 1 detectada en vela 234
+[2025-04-10T17:53:46.917Z] Interrupción 2 detectada en vela 235
+[2025-04-10T17:53:46.917Z] Interrupción 1 detectada en vela 239
+[2025-04-10T17:53:46.917Z] Interrupción 2 detectada en vela 240
+[2025-04-10T17:53:46.917Z] Interrupción 1 detectada en vela 246
+[2025-04-10T17:53:46.917Z] Interrupción 1 detectada en vela 248
+[2025-04-10T17:53:46.917Z] Interrupción 1 detectada en vela 252
+[2025-04-10T17:53:46.917Z] Interrupción 1 detectada en vela 260
+[2025-04-10T17:53:46.917Z] Interrupción 2 detectada en vela 261
+[2025-04-10T17:53:46.918Z] Interrupción 3 detectada en vela 262
+[2025-04-10T17:53:46.918Z] Interrupción 4 detectada en vela 263
+[2025-04-10T17:53:46.918Z] >>> Se detectaron 4 interrupciones en vela 263. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.918Z] Interrupción 5 detectada en vela 264
+[2025-04-10T17:53:46.918Z] >>> Entrada a la baja en vela 264
+[2025-04-10T17:53:46.918Z] >>> ¡Ganada en Martingala 1! Capital actual: 354.00 USDT
+[2025-04-10T17:53:46.918Z] Interrupción 1 detectada en vela 267
+[2025-04-10T17:53:46.918Z] Interrupción 2 detectada en vela 268
+[2025-04-10T17:53:46.918Z] Interrupción 1 detectada en vela 271
+[2025-04-10T17:53:46.918Z] Interrupción 1 detectada en vela 276
+[2025-04-10T17:53:46.918Z] Interrupción 1 detectada en vela 283
+[2025-04-10T17:53:46.918Z] Interrupción 1 detectada en vela 285
+[2025-04-10T17:53:46.918Z] Interrupción 1 detectada en vela 288
+[2025-04-10T17:53:46.918Z] Interrupción 1 detectada en vela 292
+[2025-04-10T17:53:46.918Z] Interrupción 1 detectada en vela 300
+[2025-04-10T17:53:46.918Z] Interrupción 1 detectada en vela 305
+[2025-04-10T17:53:46.919Z] Interrupción 2 detectada en vela 306
+[2025-04-10T17:53:46.925Z] Interrupción 3 detectada en vela 307
+[2025-04-10T17:53:46.925Z] Interrupción 1 detectada en vela 309
+[2025-04-10T17:53:46.925Z] Interrupción 1 detectada en vela 314
+[2025-04-10T17:53:46.925Z] Interrupción 2 detectada en vela 315
+[2025-04-10T17:53:46.925Z] Interrupción 1 detectada en vela 324
+[2025-04-10T17:53:46.925Z] Interrupción 2 detectada en vela 325
+[2025-04-10T17:53:46.925Z] Interrupción 1 detectada en vela 328
+[2025-04-10T17:53:46.925Z] Interrupción 1 detectada en vela 330
+[2025-04-10T17:53:46.925Z] Interrupción 2 detectada en vela 331
+[2025-04-10T17:53:46.925Z] Interrupción 3 detectada en vela 332
+[2025-04-10T17:53:46.925Z] Interrupción 4 detectada en vela 333
+[2025-04-10T17:53:46.926Z] >>> Se detectaron 4 interrupciones en vela 333. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.926Z] Interrupción 5 detectada en vela 334
+[2025-04-10T17:53:46.926Z] >>> Entrada a la baja en vela 334
+[2025-04-10T17:53:46.926Z] >>> Martingala 1 fallida. Perdida: -1.00 USDT
+[2025-04-10T17:53:46.926Z] >>> Martingala 2 fallida. Perdida: -2.00 USDT
+[2025-04-10T17:53:46.926Z] >>> Martingala 3 fallida. Perdida: -4.00 USDT
+[2025-04-10T17:53:46.926Z] >>> ¡Ganada en Martingala 4! Capital actual: 355.00 USDT
+[2025-04-10T17:53:46.926Z] Interrupción 1 detectada en vela 342
+[2025-04-10T17:53:46.926Z] Interrupción 1 detectada en vela 345
+[2025-04-10T17:53:46.926Z] Interrupción 1 detectada en vela 350
+[2025-04-10T17:53:46.926Z] Interrupción 2 detectada en vela 351
+[2025-04-10T17:53:46.926Z] Interrupción 1 detectada en vela 355
+[2025-04-10T17:53:46.926Z] Interrupción 2 detectada en vela 356
+[2025-04-10T17:53:46.926Z] Interrupción 3 detectada en vela 357
+[2025-04-10T17:53:46.926Z] Interrupción 4 detectada en vela 358
+[2025-04-10T17:53:46.926Z] >>> Se detectaron 4 interrupciones en vela 358. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.927Z] Interrupción 1 detectada en vela 360
+[2025-04-10T17:53:46.927Z] >>> Entrada a la baja en vela 360
+[2025-04-10T17:53:46.927Z] >>> ¡Ganada en Martingala 1! Capital actual: 356.00 USDT
+[2025-04-10T17:53:46.927Z] Interrupción 1 detectada en vela 362
+[2025-04-10T17:53:46.927Z] Interrupción 2 detectada en vela 363
+[2025-04-10T17:53:46.927Z] Interrupción 1 detectada en vela 365
+[2025-04-10T17:53:46.927Z] Interrupción 2 detectada en vela 366
+[2025-04-10T17:53:46.927Z] Interrupción 3 detectada en vela 367
+[2025-04-10T17:53:46.927Z] Interrupción 1 detectada en vela 373
+[2025-04-10T17:53:46.927Z] Interrupción 2 detectada en vela 374
+[2025-04-10T17:53:46.927Z] Interrupción 1 detectada en vela 376
+[2025-04-10T17:53:46.927Z] Interrupción 1 detectada en vela 379
+[2025-04-10T17:53:46.927Z] Interrupción 1 detectada en vela 383
+[2025-04-10T17:53:46.927Z] Interrupción 2 detectada en vela 384
+[2025-04-10T17:53:46.927Z] Interrupción 1 detectada en vela 386
+[2025-04-10T17:53:46.927Z] Interrupción 1 detectada en vela 388
+[2025-04-10T17:53:46.928Z] Interrupción 1 detectada en vela 392
+[2025-04-10T17:53:46.928Z] Interrupción 1 detectada en vela 395
+[2025-04-10T17:53:46.928Z] Interrupción 1 detectada en vela 397
+[2025-04-10T17:53:46.928Z] Interrupción 1 detectada en vela 401
+[2025-04-10T17:53:46.928Z] Interrupción 2 detectada en vela 402
+[2025-04-10T17:53:46.928Z] Interrupción 3 detectada en vela 403
+[2025-04-10T17:53:46.928Z] Interrupción 4 detectada en vela 404
+[2025-04-10T17:53:46.928Z] >>> Se detectaron 4 interrupciones en vela 404. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.928Z] Interrupción 1 detectada en vela 406
+[2025-04-10T17:53:46.928Z] >>> Entrada a la baja en vela 406
+[2025-04-10T17:53:46.928Z] >>> Martingala 1 fallida. Perdida: -1.00 USDT
+[2025-04-10T17:53:46.928Z] >>> Martingala 2 fallida. Perdida: -2.00 USDT
+[2025-04-10T17:53:46.928Z] >>> ¡Ganada en Martingala 3! Capital actual: 357.00 USDT
+[2025-04-10T17:53:46.928Z] Interrupción 1 detectada en vela 413
+[2025-04-10T17:53:46.929Z] Interrupción 2 detectada en vela 414
+[2025-04-10T17:53:46.929Z] Interrupción 1 detectada en vela 416
+[2025-04-10T17:53:46.929Z] Interrupción 1 detectada en vela 420
+[2025-04-10T17:53:46.929Z] Interrupción 1 detectada en vela 423
+[2025-04-10T17:53:46.929Z] Interrupción 2 detectada en vela 424
+[2025-04-10T17:53:46.929Z] Interrupción 3 detectada en vela 425
+[2025-04-10T17:53:46.929Z] Interrupción 1 detectada en vela 429
+[2025-04-10T17:53:46.929Z] Interrupción 2 detectada en vela 430
+[2025-04-10T17:53:46.929Z] Interrupción 1 detectada en vela 432
+[2025-04-10T17:53:46.929Z] Interrupción 2 detectada en vela 433
+[2025-04-10T17:53:46.929Z] Interrupción 3 detectada en vela 434
+[2025-04-10T17:53:46.929Z] Interrupción 4 detectada en vela 435
+[2025-04-10T17:53:46.929Z] >>> Se detectaron 4 interrupciones en vela 435. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.930Z] Interrupción 5 detectada en vela 436
+[2025-04-10T17:53:46.930Z] >>> Entrada a la baja en vela 436
+[2025-04-10T17:53:46.930Z] >>> ¡Ganada en Martingala 1! Capital actual: 358.00 USDT
+[2025-04-10T17:53:46.930Z] Interrupción 1 detectada en vela 440
+[2025-04-10T17:53:46.930Z] Interrupción 2 detectada en vela 441
+[2025-04-10T17:53:46.930Z] Interrupción 1 detectada en vela 444
+[2025-04-10T17:53:46.930Z] Interrupción 1 detectada en vela 447
+[2025-04-10T17:53:46.930Z] Interrupción 1 detectada en vela 451
+[2025-04-10T17:53:46.930Z] Interrupción 1 detectada en vela 453
+[2025-04-10T17:53:46.930Z] Interrupción 1 detectada en vela 458
+[2025-04-10T17:53:46.930Z] Interrupción 2 detectada en vela 459
+[2025-04-10T17:53:46.930Z] Interrupción 3 detectada en vela 460
+[2025-04-10T17:53:46.930Z] Interrupción 4 detectada en vela 461
+[2025-04-10T17:53:46.930Z] >>> Se detectaron 4 interrupciones en vela 461. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.930Z] Interrupción 1 detectada en vela 469
+[2025-04-10T17:53:46.930Z] >>> Entrada a la baja en vela 469
+[2025-04-10T17:53:46.931Z] >>> ¡Ganada en Martingala 1! Capital actual: 359.00 USDT
+[2025-04-10T17:53:46.931Z] Interrupción 1 detectada en vela 472
+[2025-04-10T17:53:46.931Z] Interrupción 1 detectada en vela 474
+[2025-04-10T17:53:46.931Z] Interrupción 1 detectada en vela 476
+[2025-04-10T17:53:46.931Z] Interrupción 2 detectada en vela 477
+[2025-04-10T17:53:46.931Z] Interrupción 1 detectada en vela 479
+[2025-04-10T17:53:46.931Z] Interrupción 1 detectada en vela 482
+[2025-04-10T17:53:46.931Z] Interrupción 2 detectada en vela 483
+[2025-04-10T17:53:46.931Z] Interrupción 1 detectada en vela 486
+[2025-04-10T17:53:46.931Z] Interrupción 2 detectada en vela 487
+[2025-04-10T17:53:46.931Z] Interrupción 1 detectada en vela 490
+[2025-04-10T17:53:46.931Z] Interrupción 2 detectada en vela 491
+[2025-04-10T17:53:46.932Z] Interrupción 1 detectada en vela 493
+[2025-04-10T17:53:46.932Z] Interrupción 1 detectada en vela 495
+[2025-04-10T17:53:46.932Z] Interrupción 2 detectada en vela 496
+[2025-04-10T17:53:46.932Z] Interrupción 1 detectada en vela 500
+[2025-04-10T17:53:46.932Z] Interrupción 2 detectada en vela 501
+[2025-04-10T17:53:46.932Z] Interrupción 3 detectada en vela 502
+[2025-04-10T17:53:46.932Z] Interrupción 4 detectada en vela 503
+[2025-04-10T17:53:46.932Z] >>> Se detectaron 4 interrupciones en vela 503. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.932Z] Interrupción 1 detectada en vela 505
+[2025-04-10T17:53:46.932Z] >>> Entrada a la baja en vela 505
+[2025-04-10T17:53:46.932Z] >>> ¡Ganada en Martingala 1! Capital actual: 360.00 USDT
+[2025-04-10T17:53:46.932Z] Interrupción 1 detectada en vela 507
+[2025-04-10T17:53:46.933Z] Interrupción 2 detectada en vela 508
+[2025-04-10T17:53:46.933Z] Interrupción 1 detectada en vela 511
+[2025-04-10T17:53:46.933Z] Interrupción 2 detectada en vela 512
+[2025-04-10T17:53:46.933Z] Interrupción 3 detectada en vela 513
+[2025-04-10T17:53:46.933Z] Interrupción 4 detectada en vela 514
+[2025-04-10T17:53:46.933Z] >>> Se detectaron 4 interrupciones en vela 514. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.933Z] Interrupción 1 detectada en vela 518
+[2025-04-10T17:53:46.933Z] >>> Entrada a la baja en vela 518
+[2025-04-10T17:53:46.933Z] >>> ¡Ganada en Martingala 1! Capital actual: 361.00 USDT
+[2025-04-10T17:53:46.933Z] Interrupción 1 detectada en vela 521
+[2025-04-10T17:53:46.933Z] Interrupción 1 detectada en vela 523
+[2025-04-10T17:53:46.933Z] Interrupción 1 detectada en vela 525
+[2025-04-10T17:53:46.933Z] Interrupción 1 detectada en vela 528
+[2025-04-10T17:53:46.933Z] Interrupción 1 detectada en vela 532
+[2025-04-10T17:53:46.933Z] Interrupción 2 detectada en vela 533
+[2025-04-10T17:53:46.933Z] Interrupción 3 detectada en vela 534
+[2025-04-10T17:53:46.934Z] Interrupción 1 detectada en vela 536
+[2025-04-10T17:53:46.934Z] Interrupción 2 detectada en vela 537
+[2025-04-10T17:53:46.934Z] Interrupción 3 detectada en vela 538
+[2025-04-10T17:53:46.934Z] Interrupción 1 detectada en vela 541
+[2025-04-10T17:53:46.934Z] Interrupción 2 detectada en vela 542
+[2025-04-10T17:53:46.934Z] Interrupción 1 detectada en vela 544
+[2025-04-10T17:53:46.934Z] Interrupción 2 detectada en vela 545
+[2025-04-10T17:53:46.934Z] Interrupción 3 detectada en vela 546
+[2025-04-10T17:53:46.934Z] Interrupción 1 detectada en vela 552
+[2025-04-10T17:53:46.935Z] Interrupción 1 detectada en vela 560
+[2025-04-10T17:53:46.935Z] Interrupción 2 detectada en vela 561
+[2025-04-10T17:53:46.935Z] Interrupción 1 detectada en vela 564
+[2025-04-10T17:53:46.935Z] Interrupción 1 detectada en vela 569
+[2025-04-10T17:53:46.935Z] Interrupción 1 detectada en vela 571
+[2025-04-10T17:53:46.935Z] Interrupción 1 detectada en vela 573
+[2025-04-10T17:53:46.935Z] Interrupción 2 detectada en vela 574
+[2025-04-10T17:53:46.935Z] Interrupción 1 detectada en vela 578
+[2025-04-10T17:53:46.935Z] Interrupción 1 detectada en vela 581
+[2025-04-10T17:53:46.935Z] Interrupción 1 detectada en vela 589
+[2025-04-10T17:53:46.935Z] Interrupción 1 detectada en vela 592
+[2025-04-10T17:53:46.936Z] Interrupción 1 detectada en vela 597
+[2025-04-10T17:53:46.936Z] Interrupción 2 detectada en vela 598
+[2025-04-10T17:53:46.936Z] Interrupción 1 detectada en vela 602
+[2025-04-10T17:53:46.936Z] Interrupción 1 detectada en vela 604
+[2025-04-10T17:53:46.936Z] Interrupción 2 detectada en vela 605
+[2025-04-10T17:53:46.936Z] Interrupción 1 detectada en vela 607
+[2025-04-10T17:53:46.936Z] Interrupción 1 detectada en vela 611
+[2025-04-10T17:53:46.936Z] Interrupción 1 detectada en vela 618
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 624
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 626
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 629
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 635
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 639
+[2025-04-10T17:53:46.937Z] Interrupción 2 detectada en vela 640
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 644
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 650
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 654
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 657
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 660
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 665
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 670
+[2025-04-10T17:53:46.937Z] Interrupción 1 detectada en vela 681
+[2025-04-10T17:53:46.938Z] Interrupción 1 detectada en vela 683
+[2025-04-10T17:53:46.938Z] Interrupción 1 detectada en vela 690
+[2025-04-10T17:53:46.938Z] Interrupción 1 detectada en vela 693
+[2025-04-10T17:53:46.938Z] Interrupción 1 detectada en vela 699
+[2025-04-10T17:53:46.938Z] Interrupción 2 detectada en vela 700
+[2025-04-10T17:53:46.938Z] Interrupción 3 detectada en vela 701
+[2025-04-10T17:53:46.938Z] Interrupción 4 detectada en vela 702
+[2025-04-10T17:53:46.938Z] >>> Se detectaron 4 interrupciones en vela 702. Esperando la siguiente para entrar...
+[2025-04-10T17:53:46.938Z] Interrupción 1 detectada en vela 710
+[2025-04-10T17:53:46.938Z] >>> Entrada a la baja en vela 710
+[2025-04-10T17:53:46.938Z] >>> ¡Ganada en Martingala 1! Capital actual: 362.00 USDT
+[2025-04-10T17:53:46.938Z] Interrupción 1 detectada en vela 714
+[2025-04-10T17:53:46.938Z] Interrupción 1 detectada en vela 718
+[2025-04-10T17:53:46.938Z] Interrupción 1 detectada en vela 729
+[2025-04-10T17:53:46.938Z] Interrupción 1 detectada en vela 737
+[2025-04-10T17:53:46.938Z] Interrupción 1 detectada en vela 742
+[2025-04-10T17:53:46.939Z] Interrupción 2 detectada en vela 743
+[2025-04-10T17:53:46.939Z] Interrupción 1 detectada en vela 746
+[2025-04-10T17:53:46.939Z] Interrupción 2 detectada en vela 747
+[2025-04-10T17:53:46.939Z] Interrupción 3 detectada en vela 748
+[2025-04-10T17:53:46.939Z] Interrupción 1 detectada en vela 750
+[2025-04-10T17:53:46.939Z] Interrupción 1 detectada en vela 757
+[2025-04-10T17:53:46.939Z] Interrupción 2 detectada en vela 758
+[2025-04-10T17:53:46.939Z] Interrupción 1 detectada en vela 760
+[2025-04-10T17:53:46.939Z] Interrupción 1 detectada en vela 779
+[2025-04-10T17:53:46.939Z] Interrupción 1 detectada en vela 789
+[2025-04-10T17:53:46.939Z] Interrupción 1 detectada en vela 792
+[2025-04-10T17:53:46.939Z] Interrupción 2 detectada en vela 793
+[2025-04-10T17:53:46.939Z] Interrupción 1 detectada en vela 795
+[2025-04-10T17:53:46.939Z] Interrupción 1 detectada en vela 799
+[2025-04-10T17:53:46.939Z] Interrupción 2 detectada en vela 800
+[2025-04-10T17:53:46.940Z] Interrupción 3 detectada en vela 801
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 803
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 805
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 809
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 818
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 824
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 830
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 841
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 843
+[2025-04-10T17:53:46.940Z] Interrupción 2 detectada en vela 844
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 860
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 862
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 868
+[2025-04-10T17:53:46.940Z] Interrupción 2 detectada en vela 869
+[2025-04-10T17:53:46.940Z] Interrupción 1 detectada en vela 883
+[2025-04-10T17:53:46.941Z] Interrupción 1 detectada en vela 885
+[2025-04-10T17:53:46.941Z] Interrupción 2 detectada en vela 886
+[2025-04-10T17:53:46.941Z] Interrupción 3 detectada en vela 887
+[2025-04-10T17:53:46.941Z] Interrupción 1 detectada en vela 896
+[2025-04-10T17:53:46.941Z] Interrupción 1 detectada en vela 906
+[2025-04-10T17:53:46.941Z] Interrupción 1 detectada en vela 911
+[2025-04-10T17:53:46.941Z] Interrupción 1 detectada en vela 917
+[2025-04-10T17:53:46.941Z] Interrupción 1 detectada en vela 926
+[2025-04-10T17:53:46.941Z] Interrupción 1 detectada en vela 928
+[2025-04-10T17:53:46.941Z] Interrupción 1 detectada en vela 932
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 934
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 936
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 939
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 945
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 949
+[2025-04-10T17:53:46.942Z] Interrupción 2 detectada en vela 950
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 956
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 966
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 982
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 984
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 988
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 995
+[2025-04-10T17:53:46.942Z] Interrupción 1 detectada en vela 999
+[2025-04-10T17:53:46.942Z] 
+--- RESUMEN DEL BACKTEST ---
+[2025-04-10T17:53:46.942Z] Total de entradas: 12
+[2025-04-10T17:53:46.942Z] Ganadas: 12
+[2025-04-10T17:53:46.942Z] Perdidas: 0
+[2025-04-10T17:53:46.943Z] Capital final teórico: 362.00 USDT
+[2025-04-10T17:53:46.943Z] Promedio de Martingalas en operaciones ganadas: 0.83

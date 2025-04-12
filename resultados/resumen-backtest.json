@@ -1,0 +1,38 @@
+{
+  "fecha": "2025-04-11T19:45:57.426Z",
+  "entradasTotales": 1022,
+  "ganadasReales": 856,
+  "totalGanadas": 857,
+  "perdidas": 0,
+  "capitalFinal": 1549.12,
+  "promedioMartingalaGanadora": 0.19,
+  "fondoInteresCompuesto": 87.45,
+  "martingalas": {
+    "0": 719,
+    "1": 116,
+    "2": 18,
+    "3": 3,
+    "4": 1
+  },
+  "martingalaExtendida": {
+    "0": 719,
+    "1": 254,
+    "2": 40,
+    "3": 7,
+    "4": 2
+  },
+  "velasPeligrosas": [
+    {
+      "vela": 2972,
+      "martingala": 3
+    },
+    {
+      "vela": 6807,
+      "martingala": 3
+    },
+    {
+      "vela": 31014,
+      "martingala": 3
+    }
+  ]
+}

@@ -1,0 +1,775 @@
+{
+  "operaciones": [
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 309.75,
+      "fecha": "2025-04-12T13:29:22.722Z"
+    },
+    {
+      "patron": "piercing",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 304.75,
+      "fecha": "2025-04-12T13:29:22.854Z"
+    },
+    {
+      "patron": "4_rojas_y_una_verde",
+      "fueGanadora": false,
+      "monto": 10,
+      "capitalRestante": 294.75,
+      "fecha": "2025-04-12T13:29:22.855Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": false,
+      "monto": 20,
+      "capitalRestante": 274.75,
+      "fecha": "2025-04-12T13:29:22.856Z"
+    },
+    {
+      "patron": "envolvente_alcista",
+      "fueGanadora": true,
+      "monto": 40,
+      "capitalRestante": 352.75,
+      "fecha": "2025-04-12T13:29:22.858Z"
+    },
+    {
+      "patron": "envolvente_bajista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 362.5,
+      "fecha": "2025-04-12T13:29:22.865Z"
+    },
+    {
+      "patron": "harami_alcista",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 357.5,
+      "fecha": "2025-04-12T13:29:22.866Z"
+    },
+    {
+      "patron": "marubozu",
+      "fueGanadora": false,
+      "monto": 10,
+      "capitalRestante": 347.5,
+      "fecha": "2025-04-12T13:29:22.866Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": false,
+      "monto": 20,
+      "capitalRestante": 327.5,
+      "fecha": "2025-04-12T13:29:22.867Z"
+    },
+    {
+      "patron": "nube_oscura",
+      "fueGanadora": true,
+      "monto": 40,
+      "capitalRestante": 405.5,
+      "fecha": "2025-04-12T13:29:22.868Z"
+    },
+    {
+      "patron": "doji",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 415.25,
+      "fecha": "2025-04-12T13:29:22.869Z"
+    },
+    {
+      "patron": "martillo",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 425,
+      "fecha": "2025-04-12T13:29:22.870Z"
+    },
+    {
+      "patron": "envolvente_bajista",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 420,
+      "fecha": "2025-04-12T13:29:22.870Z"
+    },
+    {
+      "patron": "nube_oscura",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 439.5,
+      "fecha": "2025-04-12T13:29:22.871Z"
+    },
+    {
+      "patron": "nube_oscura",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 449.25,
+      "fecha": "2025-04-12T13:29:22.872Z"
+    },
+    {
+      "patron": "piercing",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 459,
+      "fecha": "2025-04-12T13:29:22.872Z"
+    },
+    {
+      "patron": "envolvente_alcista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 468.75,
+      "fecha": "2025-04-12T13:29:22.873Z"
+    },
+    {
+      "patron": "tres_soldados_blancos",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 463.75,
+      "fecha": "2025-04-12T13:29:22.873Z"
+    },
+    {
+      "patron": "marubozu",
+      "fueGanadora": false,
+      "monto": 10,
+      "capitalRestante": 453.75,
+      "fecha": "2025-04-12T13:29:22.874Z"
+    },
+    {
+      "patron": "estrella_fugaz",
+      "fueGanadora": true,
+      "monto": 20,
+      "capitalRestante": 492.75,
+      "fecha": "2025-04-12T13:29:22.875Z"
+    },
+    {
+      "patron": "harami_alcista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 502.5,
+      "fecha": "2025-04-12T13:29:22.875Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 497.5,
+      "fecha": "2025-04-12T13:29:22.876Z"
+    },
+    {
+      "patron": "doji",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 517,
+      "fecha": "2025-04-12T13:29:22.876Z"
+    },
+    {
+      "patron": "marubozu",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 512,
+      "fecha": "2025-04-12T13:29:22.877Z"
+    },
+    {
+      "patron": "harami_alcista",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 531.5,
+      "fecha": "2025-04-12T13:29:22.877Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 541.25,
+      "fecha": "2025-04-12T13:29:22.878Z"
+    },
+    {
+      "patron": "marubozu",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 536.25,
+      "fecha": "2025-04-12T13:29:22.878Z"
+    },
+    {
+      "patron": "piercing",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 555.75,
+      "fecha": "2025-04-12T13:29:22.879Z"
+    },
+    {
+      "patron": "doji",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 565.5,
+      "fecha": "2025-04-12T13:29:22.883Z"
+    },
+    {
+      "patron": "piercing",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 575.25,
+      "fecha": "2025-04-12T13:29:22.884Z"
+    },
+    {
+      "patron": "doji",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 585,
+      "fecha": "2025-04-12T13:29:22.885Z"
+    },
+    {
+      "patron": "tres_soldados_blancos",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 594.75,
+      "fecha": "2025-04-12T13:29:22.885Z"
+    },
+    {
+      "patron": "envolvente_bajista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 604.5,
+      "fecha": "2025-04-12T13:29:22.886Z"
+    },
+    {
+      "patron": "envolvente_alcista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 614.25,
+      "fecha": "2025-04-12T13:29:22.887Z"
+    },
+    {
+      "patron": "tres_soldados_blancos",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 624,
+      "fecha": "2025-04-12T13:29:22.888Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 633.75,
+      "fecha": "2025-04-12T13:29:22.889Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 643.5,
+      "fecha": "2025-04-12T13:29:22.889Z"
+    },
+    {
+      "patron": "harami_alcista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 653.25,
+      "fecha": "2025-04-12T13:29:22.890Z"
+    },
+    {
+      "patron": "harami_bajista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 663,
+      "fecha": "2025-04-12T13:29:22.891Z"
+    },
+    {
+      "patron": "envolvente_alcista",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 658,
+      "fecha": "2025-04-12T13:29:22.891Z"
+    },
+    {
+      "patron": "marubozu",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 677.5,
+      "fecha": "2025-04-12T13:29:22.892Z"
+    },
+    {
+      "patron": "nube_oscura",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 687.25,
+      "fecha": "2025-04-12T13:29:22.892Z"
+    },
+    {
+      "patron": "harami_alcista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 697,
+      "fecha": "2025-04-12T13:29:22.893Z"
+    },
+    {
+      "patron": "estrella_fugaz",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 706.75,
+      "fecha": "2025-04-12T13:29:22.893Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 701.75,
+      "fecha": "2025-04-12T13:29:22.894Z"
+    },
+    {
+      "patron": "estrella_fugaz",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 721.25,
+      "fecha": "2025-04-12T13:29:22.894Z"
+    },
+    {
+      "patron": "tres_soldados_blancos",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 731,
+      "fecha": "2025-04-12T13:29:22.895Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 740.75,
+      "fecha": "2025-04-12T13:29:22.896Z"
+    },
+    {
+      "patron": "tres_soldados_blancos",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 750.5,
+      "fecha": "2025-04-12T13:29:22.896Z"
+    },
+    {
+      "patron": "tres_soldados_blancos",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 760.25,
+      "fecha": "2025-04-12T13:29:22.897Z"
+    },
+    {
+      "patron": "harami_alcista",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 755.25,
+      "fecha": "2025-04-12T13:29:22.897Z"
+    },
+    {
+      "patron": "4_rojas_y_una_verde",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 774.75,
+      "fecha": "2025-04-12T13:29:22.898Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 769.75,
+      "fecha": "2025-04-12T13:29:22.898Z"
+    },
+    {
+      "patron": "envolvente_alcista",
+      "fueGanadora": false,
+      "monto": 10,
+      "capitalRestante": 759.75,
+      "fecha": "2025-04-12T13:29:22.899Z"
+    },
+    {
+      "patron": "doji",
+      "fueGanadora": true,
+      "monto": 20,
+      "capitalRestante": 798.75,
+      "fecha": "2025-04-12T13:29:22.899Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 793.75,
+      "fecha": "2025-04-12T13:29:22.899Z"
+    },
+    {
+      "patron": "martillo",
+      "fueGanadora": false,
+      "monto": 10,
+      "capitalRestante": 783.75,
+      "fecha": "2025-04-12T13:29:22.900Z"
+    },
+    {
+      "patron": "martillo",
+      "fueGanadora": true,
+      "monto": 20,
+      "capitalRestante": 822.75,
+      "fecha": "2025-04-12T13:29:22.901Z"
+    },
+    {
+      "patron": "tres_soldados_blancos",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 832.5,
+      "fecha": "2025-04-12T13:29:22.902Z"
+    },
+    {
+      "patron": "envolvente_alcista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 842.25,
+      "fecha": "2025-04-12T13:29:22.902Z"
+    },
+    {
+      "patron": "marubozu",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 852,
+      "fecha": "2025-04-12T13:29:22.903Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 847,
+      "fecha": "2025-04-12T13:29:22.903Z"
+    },
+    {
+      "patron": "martillo",
+      "fueGanadora": false,
+      "monto": 10,
+      "capitalRestante": 837,
+      "fecha": "2025-04-12T13:29:22.904Z"
+    },
+    {
+      "patron": "4_rojas_y_una_verde",
+      "fueGanadora": true,
+      "monto": 20,
+      "capitalRestante": 876,
+      "fecha": "2025-04-12T13:29:22.904Z"
+    },
+    {
+      "patron": "martillo",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 885.75,
+      "fecha": "2025-04-12T13:29:22.905Z"
+    },
+    {
+      "patron": "harami_bajista",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 880.75,
+      "fecha": "2025-04-12T13:29:22.906Z"
+    },
+    {
+      "patron": "harami_alcista",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 900.25,
+      "fecha": "2025-04-12T13:29:22.906Z"
+    },
+    {
+      "patron": "martillo",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 910,
+      "fecha": "2025-04-12T13:29:22.907Z"
+    },
+    {
+      "patron": "harami_bajista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 919.75,
+      "fecha": "2025-04-12T13:29:22.908Z"
+    },
+    {
+      "patron": "4_rojas_y_una_verde",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 929.5,
+      "fecha": "2025-04-12T13:29:22.909Z"
+    },
+    {
+      "patron": "harami_alcista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 939.25,
+      "fecha": "2025-04-12T13:29:22.910Z"
+    },
+    {
+      "patron": "envolvente_bajista",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 934.25,
+      "fecha": "2025-04-12T13:29:22.911Z"
+    },
+    {
+      "patron": "marubozu",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 953.75,
+      "fecha": "2025-04-12T13:29:22.912Z"
+    },
+    {
+      "patron": "4_rojas_y_una_verde",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 948.75,
+      "fecha": "2025-04-12T13:29:22.912Z"
+    },
+    {
+      "patron": "doji",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 968.25,
+      "fecha": "2025-04-12T13:29:22.913Z"
+    },
+    {
+      "patron": "estrella_fugaz",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 963.25,
+      "fecha": "2025-04-12T13:29:22.913Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 982.75,
+      "fecha": "2025-04-12T13:29:22.914Z"
+    },
+    {
+      "patron": "envolvente_alcista",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 977.75,
+      "fecha": "2025-04-12T13:29:22.914Z"
+    },
+    {
+      "patron": "tres_soldados_blancos",
+      "fueGanadora": false,
+      "monto": 10,
+      "capitalRestante": 967.75,
+      "fecha": "2025-04-12T13:29:22.914Z"
+    },
+    {
+      "patron": "tres_soldados_blancos",
+      "fueGanadora": false,
+      "monto": 20,
+      "capitalRestante": 947.75,
+      "fecha": "2025-04-12T13:29:22.915Z"
+    },
+    {
+      "patron": "harami_alcista",
+      "fueGanadora": true,
+      "monto": 40,
+      "capitalRestante": 1025.75,
+      "fecha": "2025-04-12T13:29:22.915Z"
+    },
+    {
+      "patron": "envolvente_alcista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1035.5,
+      "fecha": "2025-04-12T13:29:22.916Z"
+    },
+    {
+      "patron": "estrella_fugaz",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1045.25,
+      "fecha": "2025-04-12T13:29:22.916Z"
+    },
+    {
+      "patron": "harami_alcista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1055,
+      "fecha": "2025-04-12T13:29:22.917Z"
+    },
+    {
+      "patron": "marubozu",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1064.75,
+      "fecha": "2025-04-12T13:29:22.917Z"
+    },
+    {
+      "patron": "envolvente_alcista",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1074.5,
+      "fecha": "2025-04-12T13:29:22.918Z"
+    },
+    {
+      "patron": "4_rojas_y_una_verde",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1084.25,
+      "fecha": "2025-04-12T13:29:22.918Z"
+    },
+    {
+      "patron": "martillo",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1094,
+      "fecha": "2025-04-12T13:29:22.919Z"
+    },
+    {
+      "patron": "doji",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 1089,
+      "fecha": "2025-04-12T13:29:22.920Z"
+    },
+    {
+      "patron": "nube_oscura",
+      "fueGanadora": false,
+      "monto": 10,
+      "capitalRestante": 1079,
+      "fecha": "2025-04-12T13:29:22.920Z"
+    },
+    {
+      "patron": "martillo",
+      "fueGanadora": false,
+      "monto": 20,
+      "capitalRestante": 1059,
+      "fecha": "2025-04-12T13:29:22.922Z"
+    },
+    {
+      "patron": "martillo",
+      "fueGanadora": true,
+      "monto": 40,
+      "capitalRestante": 1137,
+      "fecha": "2025-04-12T13:29:22.923Z"
+    },
+    {
+      "patron": "piercing",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1146.75,
+      "fecha": "2025-04-12T13:29:22.923Z"
+    },
+    {
+      "patron": "doji",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1156.5,
+      "fecha": "2025-04-12T13:29:22.924Z"
+    },
+    {
+      "patron": "cuervos_negros",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1166.25,
+      "fecha": "2025-04-12T13:29:22.924Z"
+    },
+    {
+      "patron": "tres_soldados_blancos",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1176,
+      "fecha": "2025-04-12T13:29:22.925Z"
+    },
+    {
+      "patron": "marubozu",
+      "fueGanadora": true,
+      "monto": 5,
+      "capitalRestante": 1185.75,
+      "fecha": "2025-04-12T13:29:22.925Z"
+    },
+    {
+      "patron": "4_rojas_y_una_verde",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 1180.75,
+      "fecha": "2025-04-12T13:29:22.926Z"
+    },
+    {
+      "patron": "harami_alcista",
+      "fueGanadora": true,
+      "monto": 10,
+      "capitalRestante": 1200.25,
+      "fecha": "2025-04-12T13:29:22.926Z"
+    },
+    {
+      "patron": "4_rojas_y_una_verde",
+      "fueGanadora": false,
+      "monto": 5,
+      "capitalRestante": 1195.25,
+      "fecha": "2025-04-12T13:29:22.927Z"
+    }
+  ],
+  "totalGanadas": 67,
+  "totalPerdidas": 33,
+  "capitalInicial": 300,
+  "capitalFinal": 1195.25,
+  "porPatron": {
+    "doji": {
+      "total": 8,
+      "ganadas": 7,
+      "perdidas": 1
+    },
+    "martillo": {
+      "total": 9,
+      "ganadas": 6,
+      "perdidas": 3
+    },
+    "estrella_fugaz": {
+      "total": 5,
+      "ganadas": 4,
+      "perdidas": 1
+    },
+    "envolvente_alcista": {
+      "total": 9,
+      "ganadas": 6,
+      "perdidas": 3
+    },
+    "envolvente_bajista": {
+      "total": 4,
+      "ganadas": 2,
+      "perdidas": 2
+    },
+    "4_rojas_y_una_verde": {
+      "total": 8,
+      "ganadas": 4,
+      "perdidas": 4
+    },
+    "tres_soldados_blancos": {
+      "total": 10,
+      "ganadas": 7,
+      "perdidas": 3
+    },
+    "cuervos_negros": {
+      "total": 14,
+      "ganadas": 7,
+      "perdidas": 7
+    },
+    "marubozu": {
+      "total": 9,
+      "ganadas": 5,
+      "perdidas": 4
+    },
+    "piercing": {
+      "total": 5,
+      "ganadas": 4,
+      "perdidas": 1
+    },
+    "nube_oscura": {
+      "total": 5,
+      "ganadas": 4,
+      "perdidas": 1
+    },
+    "harami_alcista": {
+      "total": 11,
+      "ganadas": 9,
+      "perdidas": 2
+    },
+    "harami_bajista": {
+      "total": 3,
+      "ganadas": 2,
+      "perdidas": 1
+    }
+  }
+}

@@ -1,0 +1,133 @@
+const fs = require('fs');
+
+const rawData = fs.readFileSync('./data/historical.json', 'utf8');
+const candles = JSON.parse(rawData);
+
+let capital = 350.0;
+let entryCount = 0;
+let winCount = 0;
+let lossCount = 0;
+let totalMartingalas = 0;
+
+const GANANCIA_OBJETIVO = 0.73;
+const APUESTA_INICIAL = 1.0;
+
+let direction = null;
+let interrupciones = 0;
+let esperandoConfirmacion = false;
+
+const estadisticasMartingalas = {
+  0: 0, 1: 0, 2: 0, 3: 0,
+  4: 0, 5: 0, 6: 0
+};
+
+function calcularSiguienteApuesta(perdidasAcumuladas) {
+  const objetivo = perdidasAcumuladas + GANANCIA_OBJETIVO;
+  let apuesta = APUESTA_INICIAL;
+  while (apuesta * GANANCIA_OBJETIVO < objetivo) {
+    apuesta = parseFloat((apuesta + 0.01).toFixed(2));
+  }
+  return apuesta;
+}
+
+for (let i = 1; i < candles.length; i++) {
+  const prev = candles[i - 1];
+  const curr = candles[i];
+
+  const prevColor = prev.close > prev.open ? 'verde' : 'roja';
+  const currColor = curr.close > curr.open ? 'verde' : 'roja';
+
+  if (direction === null) direction = currColor;
+
+  if (currColor !== direction) {
+    interrupciones++;
+    console.log(`Interrupción ${interrupciones} en vela ${i}`);
+  } else {
+    interrupciones = 0;
+    direction = currColor;
+  }
+
+  if (interrupciones === 4 && !esperandoConfirmacion) {
+    esperandoConfirmacion = true;
+    console.log(`>>> 4 interrupciones detectadas en vela ${i}. Esperando confirmación...`);
+    continue;
+  }
+
+  if (esperandoConfirmacion) {
+    const confirmColor = curr.close > curr.open ? 'verde' : 'roja';
+    const entradaBaja = direction === 'roja' && confirmColor === 'verde';
+    const entradaAlza = direction === 'verde' && confirmColor === 'roja';
+
+    if (entradaBaja || entradaAlza) {
+      console.log(`>>> Entrada ${entradaBaja ? 'a la baja' : 'al alza'} en vela ${i}`);
+      entryCount++;
+
+      let ganada = false;
+      let martingalaCount = 0;
+      let perdidasAcumuladas = 0;
+      let apuesta = APUESTA_INICIAL;
+
+      for (let j = i + 1; j < candles.length; j++) {
+        const next = candles[j];
+        const nextColor = next.close > next.open ? 'verde' : 'roja';
+
+        if (capital < apuesta) {
+          console.log(`>>> Sin capital para apostar ${apuesta.toFixed(2)} USDT`);
+          break;
+        }
+
+        capital -= apuesta;
+        perdidasAcumuladas += apuesta;
+
+        const esGanadora =
+          (entradaBaja && nextColor === 'roja') ||
+          (entradaAlza && nextColor === 'verde');
+
+        if (esGanadora) {
+          const ganancia = apuesta * GANANCIA_OBJETIVO;
+          capital += apuesta + ganancia;
+          console.log(
+            `>>> ¡Ganada en Martingala ${martingalaCount}! ` +
+            `Ganancia neta: +${ganancia.toFixed(2)} USDT | ` +
+            `Capital: ${capital.toFixed(2)} USDT`
+          );
+          winCount++;
+          totalMartingalas += martingalaCount;
+          if (martingalaCount <= 6) estadisticasMartingalas[martingalaCount]++;
+          ganada = true;
+          i = j;
+          break;
+        } else {
+          console.log(`>>> Martingala ${martingalaCount} fallida. Pérdida: -${apuesta.toFixed(2)} USDT`);
+        }
+
+        martingalaCount++;
+        apuesta = calcularSiguienteApuesta(perdidasAcumuladas);
+      }
+
+      if (!ganada) {
+        lossCount++;
+        totalMartingalas += martingalaCount;
+        console.log(
+          `>>> Operación fallida tras ${martingalaCount} Martingalas. ` +
+          `Capital actual: ${capital.toFixed(2)} USDT`
+        );
+      }
+
+      esperandoConfirmacion = false;
+      interrupciones = 0;
+    }
+  }
+}
+
+console.log('\n--- RESUMEN DEL BACKTEST ---');
+console.log(`Entradas totales: ${entryCount}`);
+console.log(`Ganadas: ${winCount}`);
+console.log(`Perdidas: ${lossCount}`);
+console.log(`Capital final: ${capital.toFixed(2)} USDT`);
+console.log(`Promedio Martingalas ganadoras: ${winCount ? (totalMartingalas / winCount).toFixed(2) : 0}`);
+
+console.log('\n--- Estadísticas de Martingalas ---');
+for (let i = 0; i <= 6; i++) {
+  console.log(`Ganadas en Martingala ${i}: ${estadisticasMartingalas[i]}`);
+}

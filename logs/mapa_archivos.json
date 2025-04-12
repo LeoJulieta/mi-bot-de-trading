@@ -1,0 +1,9 @@
+{
+  "cambios": [
+    {
+      "archivo": "resultados.json",
+      "desde": "/data/data/com.termux/files/home/mi-bot-de-trading/resultados.json",
+      "hacia": "/data/data/com.termux/files/home/mi-bot-de-trading/datos/resultados.json"
+    }
+  ]
+}
