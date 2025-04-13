@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 # Ruta base del proyecto
-cd ~/mi-bot-de-trading
+cd ~/mi-bot-de-trading || { echo "Error al cambiar de directorio"; exit 1; }
 
 # Fecha actual
 FECHA=$(date '+%Y-%m-%d')
@@ -10,11 +10,12 @@ TIMESTAMP=$(date '+%Y-%m-%d_%H-%M')
 
 # Ejecutar escaneo de archivos y loguear
 echo "[$HORA] Iniciando escaneo automático..." >> logs/autolog.log
-node tools/ls-scan.js >> logs/autolog.log 2>&1
+node tools/ls-scan.js >> logs/autolog.log 2>&1 || { echo "Error al ejecutar el escaneo."; exit 1; }
 echo "Escaneo ejecutado en: $(date)" >> logs/autolog.log
 
 # Guardar fragmento de charla desde notificaciones (si jq está instalado)
 if command -v jq > /dev/null; then
+    # Usamos timeout de 3 segundos para evitar que se quede colgado
     CHARLA=$(timeout 3s termux-notification-list | jq -r '.[] | select(.app=="com.termux") | .summary' | tail -n 1)
     if [ -n "$CHARLA" ]; then
         echo "Log de charla: $(date)" >> chatlog.md

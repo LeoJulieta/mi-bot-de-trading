@@ -1,6 +1,6 @@
 # Proyecto: Mi bot de trading
 
-Última actualización: Sun Apr 13 01:47:29 -03 2025
+Última actualización: Sun Apr 13 01:54:43 -03 2025
 
 ## Estructura de carpetas
 .
@@ -12,7 +12,8 @@
 ├── autoupdater.sh
 ├── backtest.json
 ├── backups
-│   └── backup-2025-04-13_00-00.zip
+│   ├── backup-2025-04-13_00-00.zip
+│   └── backup-2025-04-13_01-47.zip
 ├── bot-inteligente.js
 ├── bot.js
 ├── bot_actual_mal.js
@@ -50,6 +51,7 @@
 ├── log-dashboard.html
 ├── logs
 │   ├── autolog.log
+│   ├── git.log
 │   ├── input_para_chatgpt.json
 │   ├── last_backup_time.txt
 │   ├── ls-scan.json
@@ -75,7 +77,8 @@
 │   └── ls-scan.js
 └── version-estable-bot-v1.txt
 
-9 directories, 62 files
+9 directories, 64 files
 
 ## Últimos cambios
+- 508d992 Auto backup y sincronización: 2025-04-13 01:47:25 (2025-04-13 01:47:34 -0300)
 - d3e8cae Primer commit: proyecto iniciado (2025-04-12 13:19:24 -0300)

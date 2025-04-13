@@ -1,0 +1,14 @@
+[main 508d992] Auto backup y sincronización: 2025-04-13 01:47:25
+ 12 files changed, 2435 insertions(+), 19 deletions(-)
+ create mode 100644 README.md
+ mode change 100644 => 100755 autolog.sh
+ create mode 100755 autoupdater.sh
+ create mode 100644 backups/backup-2025-04-13_00-00.zip
+ create mode 100644 backups/backup-2025-04-13_01-47.zip
+ create mode 100644 chatlog.md
+ create mode 100644 log-dashboard.html
+ create mode 100644 logs/autolog.log
+ create mode 100644 logs/last_backup_time.txt
+ create mode 100644 resumenes/2025-04-13-resumen.md
+To https://github.com/LeoJulieta/mi-bot-de-trading.git
+   d3e8cae..508d992  main -> main
