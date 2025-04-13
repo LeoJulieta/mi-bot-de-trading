@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Log Dashboard</title>
+  <style>
+    body { font-family: monospace; background: #121212; color: #f1f1f1; padding: 20px; }
+    h1, h2 { color: #00ffae; }
+    pre { background: #1e1e1e; padding: 10px; overflow-x: auto; border-left: 4px solid #00ffae; }
+  </style>
+</head>
+<body>
+  <h1>Panel de Logs</h1>
+
+  <h2>Últimos mensajes (chatlog.md)</h2>
+  <pre id="chatlog">Cargando...</pre>
+
+  <h2>Resumen de hoy</h2>
+  <pre id="resumen">Cargando...</pre>
+
+  <h2>Últimos logs (autolog.log)</h2>
+  <pre id="autolog">Cargando...</pre>
+
+  <h2>Estructura del Proyecto</h2>
+  <pre id="estructura">Cargando...</pre>
+
+  <script>
+    async function cargar(id, archivo) {
+      try {
+        const res = await fetch(archivo);
+        const texto = await res.text();
+        document.getElementById(id).textContent = texto;
+      } catch (err) {
+        document.getElementById(id).textContent = "No se pudo cargar " + archivo;
+      }
+    }
+
+    cargar("chatlog", "chatlog.md");
+    cargar("resumen", "resumenes/2025-04-13-resumen.md");
+    cargar("autolog", "logs/autolog.log");
+    cargar("estructura", "estructura.txt");
+  </script>
+</body>
+</html>

@@ -1,5 +1,735 @@
 [
   {
+    "tipo": "carpeta",
+    "ruta": ".git"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/COMMIT_EDITMSG",
+    "vistaPrevia": "Primer commit: proyecto iniciado"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/HEAD",
+    "vistaPrevia": "ref: refs/heads/main"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/config",
+    "vistaPrevia": "[core] repositoryformatversion = 0 filemode = true bare = false logallrefupdates = true [remote \"origin\"] url = https://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@github.com/LeoJulieta/mi-bot-de-trading"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/description",
+    "vistaPrevia": "Unnamed repository; edit this file 'description' to name the repository."
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/hooks"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/applypatch-msg.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # # An example hook script to check the commit log message taken by # applypatch from an e-mail message. # # The hook should exit with non-zero status after is"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/commit-msg.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # # An example hook script to check the commit log message. # Called by \"git commit\" with one argument, the name of the file # that has the commit message. The"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/fsmonitor-watchman.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/perl use strict; use warnings; use IPC::Open2; # An example hook script to integrate Watchman # (https://facebook.github.io/watchman/) with git to speed up detect"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/post-update.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # # An example hook script to prepare a packed repository for use over # dumb transports. # # To enable this hook, rename this file to \"post-update\". exec git "
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/pre-applypatch.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # # An example hook script to verify what is about to be committed # by applypatch from an e-mail message. # # The hook should exit with non-zero status after "
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/pre-commit.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # # An example hook script to verify what is about to be committed. # Called by \"git commit\" with no arguments. The hook should # exit with non-zero status aft"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/pre-merge-commit.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # # An example hook script to verify what is about to be committed. # Called by \"git merge\" with no arguments. The hook should # exit with non-zero status afte"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/pre-push.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # An example hook script to verify what is about to be pushed. Called by \"git # push\" after it has checked the remote status, but before anything has been # pu"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/pre-rebase.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # # Copyright (c) 2006, 2008 Junio C Hamano # # The \"pre-rebase\" hook is run just before \"git rebase\" starts doing # its job, and can prevent the command from "
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/pre-receive.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # # An example hook script to make use of push options. # The example simply echoes all push options that start with 'echoback=' # and rejects all pushes when "
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/prepare-commit-msg.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # # An example hook script to prepare the commit log message. # Called by \"git commit\" with the name of the file that has the # commit message, followed by the"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/push-to-checkout.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # An example hook script to update a checked-out tree on a git push. # # This hook is invoked by git-receive-pack(1) when it reacts to git # push and updates r"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/sendemail-validate.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # An example hook script to validate a patch (and/or patch series) before # sending it via email. # # The hook should exit with non-zero status after issuing a"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/hooks/update.sample",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/sh # # An example hook script to block unannotated tags from entering. # Called by \"git receive-pack\" with arguments: refname sha1-old sha1-new # # To enable this"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/index",
+    "vistaPrevia": "DIRC\u0000\u0000\u0000\u0002\u0000\u0000\u00006g�x�\u0013���g�x�\u0013���\u0000\u0001\u0003\u001d\u0000\b�;\u0000\u0000��\u0000\u0000)�\u0000\u0000)�\u0000\u0000\u0004- ��\u0000 y|�6���\b\u0015���s��\u0000\u0012actualizarVelas.js\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000g�g�\u0019֨Eg�g�\u0019֨E\u0000\u0001\u0003\u001d\u0000\u0018\u001b�\u0000\u0000��\u0000\u0000)�\u0000\u0000)�\u0000\u0000\u0005�\u001d��� ��\u0002ڐQ�F\u0013`@x�� \u0000\u0017actualizar_historico.js\u0000\u0000\u0000g���\u0005\u0019\u0010�g���\u0005\u0019\u0010"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/info"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/info/exclude",
+    "vistaPrevia": "# git ls-files --others --exclude-from=.git/info/exclude # Lines that start with '#' are comments. # For a project mostly in C, the following would be a good set of # exclude patterns (uncomment them "
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/logs"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/logs/HEAD",
+    "vistaPrevia": "0000000000000000000000000000000000000000 d3e8cae7a3803af129cc502f026415e086704d45 LeoJulieta <julietamusictube@gmail.com> 1744474764 -0300 commit (initial): Primer commit: proyecto iniciado"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/logs/refs"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/logs/refs/heads"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/logs/refs/heads/main",
+    "vistaPrevia": "0000000000000000000000000000000000000000 d3e8cae7a3803af129cc502f026415e086704d45 LeoJulieta <julietamusictube@gmail.com> 1744474764 -0300 commit (initial): Primer commit: proyecto iniciado"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/logs/refs/remotes"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/logs/refs/remotes/origin"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/logs/refs/remotes/origin/main",
+    "vistaPrevia": "0000000000000000000000000000000000000000 d3e8cae7a3803af129cc502f026415e086704d45 LeoJulieta <julietamusictube@gmail.com> 1744475418 -0300 update by push"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/06"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/06/37a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
+    "vistaPrevia": "x\u0001K��OR0b��\u0005\u0000\u000e�\u0002�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/09"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/09/fd8d0020797cd036ba999b081585bae073d4e0",
+    "vistaPrevia": "x\u0001uT͎�0\u0010朧\u0018.\u001b�\u0016��Ên)\u0017�J �\u001e��T\u001c�t�\u001a9v���\u0005��x\u0005��b����\b�\u0014�x<���l��B9�Z<��v\u001ej\u0007+����\u0016Y^��XfY�\u0012�:���}�g;፛����_��9��f�\u001e�\u0002� �\u0000~�Σ��2�~0�����\u0003o�u�j�-�ݍT���\u0015\u001b�L!�|�\"/By����\u001e��\u0016��\u0019\u0007�^/\u001bt^4�\u0003\u0001�� �\u0004o׷�$�\u0003�\u0015:a��R/�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/0c"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/0c/6c5058058da95e2633d650c52d173d7e36c3ba",
+    "vistaPrevia": "x\u0001+)JMU�0d040031Q(J-.�)IL�/��*��cX����cd�ֆG'4 ?l�m�\u0019��,5'\u0011�j�E�U�\u0012�>��n�m�\u0003Y�Pƛ\u0000\u001d�&$"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/0e"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/0e/3a80e581ffc1b678ebe00a0921114d433e501c",
+    "vistaPrevia": "x\u0001��� \u00021\u0010D��+���\u0002���\"\u0016�d5��\u0016��C��w\u0013�Jl�b`v����\u0016v���1\u0000(��F\u0016u�S�\u0000�إ��\u0010\u0017n\u000fUH�Tѳ�7�Im?\u001dO�7�Ǌos��J%�ws���\u0004�drԖ���kA\u001f��� �\"� m3X�Я�k��>\u0001�P�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/11"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/11/268be7ea069440f83ab100f4f844accb69ef1d",
+    "vistaPrevia": "x\u0001�W�n�F\u0010�YO1 ��\u0002T:h{(l������XB�\u0006E�\u0006��ZɛP��r�$5xl�\u0001�\u001eS\u0004=��S/�\u0015���/�<Bg��Z�tZ]Lswgf����P3��ΝO?��\u0002�TQnM��I�=�+�=-{�\\�����]��y%4O�E��w�ʚ��x��߬j�慐<�\u0011��.od�fs��P�XI��J�y��S�\u001e\u001d�d+>�$�6�Wl͆l5\u0013��;�CH�2�<X��6l"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/15"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/15/cb0ecb3e219d1701294bfdf0fe3f5cb5d208e7",
+    "vistaPrevia": "x\u0001K��OR02b\b�fec�\u0000\u0000H�\u0002�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/1d"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/1d/e5e0d50ca5dc02da9051984613604078b7b60b",
+    "vistaPrevia": "x\u0001�T]n\u00131\u0010�9�\u0018��٨�I(�!QT�\u0002�\u0010j%��\u0012U��L\u0012��^lo�P�0��#�b�w�Φ-\u0012��\u001e����7�K=�����/z=�+�\u0014����\u0016�i#R;�V��u��0\u0006�? a0i/m�3�o���\u0007��a�s�n���� �&]��&�v��V�P ���^O�]��\u001c�B94\u001b.��A\u0016�Rd�!E ���\b\bY���Nd\u001ar4t%\u0016�� � �U���N�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/20"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/20/3430ad0aefc099bb7ae67bbc2a98252544fc63",
+    "vistaPrevia": "x\u0001��]n��\u0011F��U0 �@��W\u000f\u00038�\u0010\u0004�\u0003##�$�\u0003Gj\u000f:P�\u0007=��'k�\u000e⍅��e ����a�\u0006\u0018��Uu��^��\u001e��2u]���yY_��U��\u0015�M�n��k������;�>}�����!+������ix\u0018��!���q�ʯ��>������EA�[��K���Z�r����\u0014�K(\\������_��>蟔� �/��Tj=�^��͛����t<dU��"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/21"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/21/ee7e6dc5f1b55476b086b6e00ff3f1d706876b",
+    "vistaPrevia": "x\u0001��O��D\u0014��.E�GTqCz�@��$�R�&]�BY J�\u0015�z�R'�ęř1�q�K�C���\u0004\u001c� VB��-�r�#g��x��Kqd9�y��{�~�G�\u001e��'�o7N\u001f�}�A��_~��?;��v\u001a �������<\u000f:\u001dp�`\u001f\u001e ���W ��\\\u001b\u001es��\u0002^X�ϋ� �\u0004#\u0012�[�\u0003��-�s8ı\u001f iD�7����jf\u0006\\�T���W(�-�q�/K��7v� "
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/23"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/23/4055c515910e5e70d5713ad9699b341ae1b7b1",
+    "vistaPrevia": "x\u0001ݝ=�\u001d�\u0011E\u001d�W,6v���~*�CÑ\u0002\u00056\u0014P\"a\u0010 (A\u0012#���\u0014)�O\u0003����j�J���Vͼ{�z�j�r�|���\u001eo\u001e\u001e\u001e��/����񿫫�_������W�_��_]�����o������o_}�\u001f��~ ������o�/1����(��ן>���l�}����o>z���m�7?x�˫ן\u001c����W�_�z��߳<��~>�G� \b����\u0016�h�\u0018��\u0018�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/24"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/24/5ffbe6bbcd8207e04bbbc7d14c9811d2367443",
+    "vistaPrevia": "x\u0001�T�n�0\u0014�zOq���a]���. \u0005�UCB\u0013Hl\\U\u0015u\u0013�1s�`;\u001dՔG�)x1����:�\u001d�p����}���B-apv>z�(i,� L@�\u001f%׌\u0004+\u0013��\u000f����ɡ7��\u0006`��R t\u000f��Lo��\u000eZW.-�\u001b��\u0006��,x�-�\u0007q\u001cc\u0014�,Hu��)�,�-��ΚP� ���E�ҹ:�U)\u0013˕�\u0015�IvYc��T�[��\u0010\u001e\u000e\u0000�\u001eJ�jX����>-x��ʄE"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/26"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/26/b8e4f639703812cfc3022e1eaade8b5a523c4c",
+    "vistaPrevia": "x\u0001+)JMU0�d040031Q(J-.�M��MJL�.I-.��*��c(S�>ȸ�N�u�cS���9��غ\u001a\u0000&S\u0016)"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/27"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/27/54717cd08d12d2543979fb000f44e70473a18b",
+    "vistaPrevia": "x\u0001��ˮ�<�$��~�\u000f���a�\"_�UzV�DW\u0001��'зA�޽�{���#1dYrn�L֑�0IQ\u0012��������}�c�����_����ǿ����������ǿ�5����6��_�����������y���������ӿ�����e�m����?��������������h?�\u0003����m\u0019�1\u0018\u0002a\u0019�i�>\u001aþ�1��f1���a9���IJ�G\u0010\u0005e��\u0004��"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/31"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/31/ccded90e92ab6dde814c81cc072993954afb1e",
+    "vistaPrevia": "x\u0001+)JMU0�4f040031Q�/JO�ˬJL�/��*f\u0010T�~��m��\u000f�� _~��9��^\u0016����T!��$?'?]�8�a�����]~����\u0019�\u001f>/v���o�yI��٥\u0005 E��v�f��}��7�ăW�I�;A\u0015%g$��\u0017��T9hl;?��^ބt_u�>���\u001c�PU9ź�ɉy guE��H2jr�X�Ml.�����\u0001݁Oz"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/35"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/35/0fea20cab86b96514881c692faf24698bbe847",
+    "vistaPrevia": "x\u0001�V�n�6\u0014޵��\\U2�)i�nC�tȺx@�6C�\u0006\u0018�@��#�\u000eMz$��m�0}�>B^l�\"%K�<d��E��\u001f~�#gB���O?����1��\u001a%[r��҅�r%����)h���\u001a��4�h\u0012vV��v���v�s\u0004P���2��i˅P����j����r�Ěb�ȹ�lx�7���4��\u0010lZ�٧���K�`�\u000f�]�.0��f�\u001eS�ZI�T4Gc��3����^�q\u0002"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/36"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/36/65886eabf7e3e08d9083108e56ce71324e9d4f",
+    "vistaPrevia": "x\u0001���N�0\u0010�{�SL%�8R�\"$���P�\u0000\u0007\u000eP�cU������^��\u0002]�x��X����޸Y�������Z�·�O�w!�\u000e�\u0000��`\bE�CY͊�BCT�!��sE)��t�^�H�a�w��rV\u0014zp]4ށo#:�_낟|��AT�*\u0000��^E��ί./�BQ@��$T���x��:��ՊI���@\u000e.�;�D\u0017�`\u0010iNů\u0000R\u001b\u001b���}]�q����9�N2\u0013C�0��h"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/37"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/37/03df8399eed67c4530ad9428d9adb076b3d965",
+    "vistaPrevia": "x\u0001%�A �0\u0010\u0000=�\u0015{\u0010��\u0004\u0004\u0011Q< \u001e<�\u001f�ٴ�%�l*��wS<\u000f3�q�`��.�\u0018$�\u00138B���\u0013i�DՇ��#�\u0019 �4��y`\u0012�NL\"�g�ԼC���%��{ds�\u0018� Ԕ�Nե2G\"��8���!{�\u0016,��\u0018e\u000f��<0La��-�\u000foX3�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/3d"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/3d/8afed8f96f6853ea201d814c5ea696067b78bc",
+    "vistaPrevia": "x\u0001�S�n�0\u0010圯\u0018E\u001c�Ғ�BB[\u0015�C�@@\u0011˽�ړ�ŵ��Y���;c'�4{@Bp�,��{~�f��~\u0007�����.D��\u001da\bp\u0001��{C(�)T.΋�Fy�\u0015���l3�5O2���S�tO��Vv\u001dg�����W_�r�l�Zqi]�G���\u001f��`H�\u0007\u0014I�X$*�@$��Z���~{� 4\u0006��\u0016� �\u0017M�T4ށ��7ca�\u0013���\b��\u0002\u001e ��c�d Ipu�\u0013��"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/40"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/40/28b6cf9ef414bd0d60674d270a8e2085b30867",
+    "vistaPrevia": "x\u0001U̻\u000e�0\u0000Fag��OeP\u0013@���$�d�� \u001b )P�ZZR.���rs��4��zN��B�p��^\u001f~�YF5�<*]Єw\u000f�� tOQ�B!�ɹ)�`sXmw��_����\u001c� V���3�/���sR�:�\u0011\u00027䌦�$ܡ��\\�\\\u0011��F_4$�w2���N�yHrZge�TӈɖSm�*%�\u0017�D>�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/43"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/43/7059f79a1c57f09a415511012abee2b13c354d",
+    "vistaPrevia": "x\u0001��[ �0\u0010E�v\u0015C�El-\u0016\\�;�i\u0012!�f�4->pU.��9���\b�O�ޙ �S:*!/��y ��\u0018��6M�\u0010�4�4�m�,y)��,ܮ\u001er��F^� �>\u0018涪���CM L{ G0>0j\u0004\u0004�P�\u001e�Y�4\u00015ų���h�w&f��e��� ٿ�O\u0003`�3`\u000f����\u0002�\u0000����\u001do�\u0015O�\u0007M�3\u000f��F\u0010MMt�Z䀃Tq/�G7�3M\\Y�7�|��g�jz�\u0003"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/48"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/48/185024311b94d8f1b24e8319f8432684b1ffd7",
+    "vistaPrevia": "x\u0001m��n�@\u0010ǩ�\u0014�^��lA���\u0015Q�@��\u0005�@��in=�7��X;�(�����\u0014)�y�{\u0013���nr1\u0012.\\����X���gO\u001fL\u001eV5\u0006�?��2���WUc,IՋ�6�U\u001b��(&p�uk.�9�\u0016�y\u0017�\u001c�\u001bO:�7,`�\u001d��.�\u0014�OOV��7���|.�q]\u001f�\u001dz\\� \\\b;U�\u0017�g���z�|7S���hV8\u0018\u0015UI�ܥA_f�H���i�F\u000fq\u0010t5"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/4a"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/4a/1d8e56d2adc89e187c7feb5f67c77f5986f887",
+    "vistaPrevia": "x\u0001K��OR0�`��W�=�9�4'_!%U�719#3/U�'5�(/3/]!3/3931�+9?�8?'U/'?]C��G!?�8��,1/%_]�\u001a\u0000�\u001a]"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/4a/41e81003fe7445d5cb33effe0927aaeebb30b0",
+    "vistaPrevia": "x\u0001��ͮ���$��~�\u000fw\\�X���UzV���\u0002��&P�]�B�{���A Gbв������Za��$\u0006E�����k��u<�����?�����_�������\u001f����m\u001e�i��\u001f���������o�������>�/����/<�����'�o���_����>�\u0017�������C�����\u0003��l]\u00051�������\u0006�w\u0006A�$�a\u001e\u0003\u0010�\\\u0007���"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/67"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/67/6e05991735adb4e21724338c8dcb2d16ed1230",
+    "vistaPrevia": "x\u0001+)JMU0�0a040031Q��+(-�/H,J�O�H,I/(��*��cxds��ɫ�\u001f��\u00197ŧo�Y|�\u0018�%�X�891\u000f�.��W�_�v����#��X�\u001a\u001f�\u0007U��X�\u0018�X���Y�_ Q�g�����m\u0015�\u001fpq* �:�\u0005�@U�\u0017�\u0016%&g��\u0016����T�0(�\u0018��z`��g�{�f����I\u0006\u0000��K�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/6a"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/6a/8f6c8c0b63d90552c2849fd7df2c0aa9d0649f",
+    "vistaPrevia": "x\u0001mRQn�@ �{Oa����M�\"!$PA�X�(B�?@�t�fg5\u0019\u0017�\u0007*m��\u0019� G�&�\u0004O�+��|$\u0013����y�=]Ó��\u000f,�(�\u0003�C #�\u0003��\u0018��n��>�2Y����-f��(,�7xi\u0004˪\u0011zM�x|�\u0006|'�B_\u0016\u0018닫�T\u001bo(�S(\u001e՝�hhp! �\u0015�Q�/���\b�!�$�A\u0018�鈛mԪ\u0012��O!JGI��F*8\u000e�\u0005���#��\u0017 �%��TV�W�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/6b"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/6b/d6f516fa5b3ede23e4cfec11458178855f518e",
+    "vistaPrevia": "x\u0001�\\Ms�Hz�yE�fkEՈ\u0010\u0000~k�ٕ-y�Yk�H�Tb��i�M \u001a\u0010��!K���\u0017l.��9���\u001c���������\u001c�\u0017�� 4H\u0001�Aes��\u0002����~��n��pĜ�����g��⏱��[�\u001b�l�G� �*��V�(M�\u0004�����\u000f<�V�<�.㬆�ND\u0010{a@� ������S���\u001d�8�/#q��^�a\u0010'l\u001a�',\u0012�R/\u0012��i���\u0005S%z2(޴v&"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/74"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/74/2a19995e634cb08c9f0599db3baf82e0a2fdfe",
+    "vistaPrevia": "x\u0001mS���0\u0010��_1�����:��e �\u0006v\u000f��B/mi��8��H[IN�\u0006�{g�x��x��͛7�\u0007m\u001f`Q/V�\u001ak|�#�360�-8��+�b�<*��xr�A�g�M������x�u�i��\u0006� �S�t\"��k[\u0002e\u00054��\u0005\u001c3�u�6�����\u0011\u001dS�sJ�\b��1�\u000e9��)=p�iȷ$g��e�\u0004�F��j�ﬓNY��%я\u0014#�\u0006�{\u0019P\u0014�\u000eÝ�\u0017�\u0004,�\\"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/74/f2618af4071744d00e6dcec47a25e409b69f77",
+    "vistaPrevia": "x\u0001K��OR0465b\b�ff\u0011a``�`(��\u001d��aۆO� \u001a, \u0002 2 �y%E�y���@F�^Vqh\b'\u0003�^��t��?�K+�\u0019\u0018Y�h20����}� \u0004�=�l;},����\u001c�)�\u0005\u000e��w M\u000f ���YX�6��1���G�\u0015�j�wz'����O���z�� ���Q�\u0013���n6򴹲������>/�s���ڍ; ��sw~O\u000f�h\u0012�N�n�\u001d?\u000ffMM{򀷯�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/76"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/76/272bc101b7dc78d73ec6946f6f1f08e6e8b5ab",
+    "vistaPrevia": "x\u0001�PKk�0 ޹�\"�\u0016۱�m�0\u0018���\u001d��M\u0003�\u001d\u001co F��$Ŵ0(�&�{H�v�ﲒ�7?�,�\u000ff�y�� �fr���7�T��6R�o�-Ҍ�Awz�����A��\u0010\u0004��!�j\u0012P���\u0011�� \b�ZU4�L�\u0006�È�`��\u0001�\u000f��\u0016}�l6|���\u001fM7�g\u001d��zm5���\u0017� o���]�\\4��w~�>�\u001c=n�\u0000�\u0018�Y�k17DbPV�\u0005t\u001c:��r�\u0004v5j"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/8a"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/8a/58bb3e886232824768afb6169d0f743dedb3d7",
+    "vistaPrevia": "x\u0001}U͎\u0013G\u0010��OQ\\��0cg%�\u0015��\u0014`\u0013%J`��\u0001\u0004�i�{�^z���\u001e�\u000e�%R�!\u0017��\u0013��3��\u0004<B�=�]�`�������gB�`o���\u000f�1X��\u0019 s�TT�gf0��4\u0016j\u0003��٫�kF��\u0014Ãx�R��߹��6^���齧�G'�sg29\u0000 2[[f��|�\u001be�U�@0�/�ÜAE�\u0014���|����\u0002[qKu�\u0019Xh*���\u0000\u0015�-��\u001e5 C��fF"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/8c"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/8c/3ce52f370f96dd9f06bc16b8e6ea126fe4f8f8",
+    "vistaPrevia": "x\u0001��ݮ,��$6��\u0014\u0007}=�P��ٯ�+�q�\u0019��O\u00033�/ ��#WUP�-R���� �7���� EQ�D�����ۺ\u001f�����?��o�/���o��?���������_�����o�6Oǲ � ���������\u001b�k�k��ϣ�������ǣ����y�}^�?��\u001f�������_��=\u001fN�������|��d�m$��Z�\u001a�H�9F�Ͻ� h���"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/92"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/92/b92becb749c4eb7ba3ec9c1b14f2b73290c07e",
+    "vistaPrevia": "x\u0001M�I\u000e� \u0014@]�\u0014�k\u0017�2\u0014/C~-\u001a�\u0017\u0012�$j���v�� 3ƙ R��\u001d!=7)z��i�\u0000�ڴ��B\u0018�J��\u0016< \u0015�\u0018\u001b\u001dG�ؤ�Η�]c|�BP-wfC�Xm(���].�\u0015R���\u0001��\u0016L�C�,\"��z�W;\u0007�$��� �}3"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/93"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/93/5fb3278dfab2b8477a41437524e18aba8e88a4",
+    "vistaPrevia": "x\u0001�V͎�6\u0010��O1�6�c[Iv\u0011$�ֹd�E�& ⤗�@�\u0012esA��H-Z\u0004~�\u001e{,�\b~�̈\"e��\u0014-Z\u001fl�\u001c��73��J�\u0015�=���W���Aaa\u0001��P�R$�'\u0017\u0000���+,\u0011���5���\u0005,���1v4�۫Jg��IÎŬ�V��\u0010�u%:��8*H�I����x��\b�v\u0006N�L{J~�Wx-���\u0004>��>J8�p'\u001d*�~�]{�\u001cH-3�* J}#J�\u0016\u0017�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/95"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/95/196ec6cd18dbdca9229ccc5980cd7b7bbaf210",
+    "vistaPrevia": "x\u0001u��J\u00031\u0010�����s�knUX��A-^D=(��ң �͆5���$-�g\u001f�\u0017(\"\b^�\b={\u0013ăo��Gp�Uj�6�O���|���\u0012b����:�r����pw�ډ�O�vZE�`�+�l���8\u0011)��K�NB��S)ni\u0002��\"\u0012�T��ܐ(��À�\u0001:7\u001a\u0007\u0018-����ܛ���_Ώ\u0010�TEe2gE��K�\"\u0011e�Bq\u0012r���/�`��yD\u0014\u0012� �\u0003��E��V��cy�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/98"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/98/870747141c944ce0eb1fef843d95a517e27101",
+    "vistaPrevia": "x\u0001uT�n\u001b7\u0010��O1 �k+�d;Aa�-�9\u0014I\u001b�I.�\u0010Q�#�1�ܐ\\Ɇ�\u000f�\u0007���\u0017ː��O��A\"�3��73Uf �_F�? \u0006P�˅� � �p��;ȍv\u001ef\u000e���ZZd���e��F<H������\u0012~��\u001b�Aۺ��rj\u0014\u0019�>��|�~���=,�G�\u0014Q7*7b%K��~4\u001c\u000e/�R.��y��� -idA'c�Zj�sl�\u0014R�\u001cG���uo�Po��}�>\u001a\u001c"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/a2"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/a2/80e746f159872ab0e2c9f883f657c33e4b3df3",
+    "vistaPrevia": "x\u0001�M�\u001f�\u0011�s��X�\u001c\u000f�����Ʒ$��\u001crX� qP�F�N��=��\u0007O���\u0017 �.���������z�f�����q!�?�狻���o~����Ï��ܿ��\u001b?����˿��\u001f>�|���|��O�����x��?\u001f��F\u0019��r_j�W�^y�J�C+�]u��7�<����������7�����{���\u0013���/_���_�����6?<��Ӈ���ֺ�|��"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/a6"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/a6/2eb8656b469de182fd5ee318e0ea67625bb9fa",
+    "vistaPrevia": "x\u0001MP�N�0\u0010��X�Fj�\u001cK\bq@ʡ���\u0000E�B�rb���\u000fىT8p�/�:�\u0004'M \u0017�g5;��yer���>\u001b�S�jvx ��Z8��髬���w4����o\u0011\u001a@�\u0004s��b�X\bl뤒�\u0000\u0017\u0015Xg�EQ\u001b\u0018y�A\u001b.6��&Ȁ���o��q�� ��1zZ.��l�H?��$75�Ԏq�Kt7}^�\u001f\u0017)\u001e\u001eia���ct?�f�t8 � ��њD�D|\u0013�H��h��f�v�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/ab"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/ab/2dcb97529e633b1f7a65b98405e301318b9cb8",
+    "vistaPrevia": "x\u0001���N�0 �9�)̩�Tu� 0ĉ/�\u0001$vD\u001c��݂B2�\u00046�=\u0015����_\u0013'z��ر��?Wf\u000e'gG\u0007���Ac�\u0002\b߽$��Ʀ�y�FV�-9��\u0013B�\u0013���5:=O��\u0004�P�K\u0010�\u0002A�R~\u0018�����`%h\u0003���a\"\u001b�\u000e\u001b[ƣ�mt��&y\u000e�\u0004���'I�7R�\u0010-�~��PZGR/d�ɶ{����\u0002���w����J�|kX \u0012����|#Q�p��F�ѧ\u001e"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/af"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/af/9e6b11234b7a4f3f574e3844133bb489850587",
+    "vistaPrevia": "x\u0001�V�n\u001b7\u0010���b�H����\u0015�MQ9n��\u0017�@b�J�\u0014C�V\\�\u0006E�$שm��Է���:��je9\u0006\u001a\u0018�vv�9s���N����O��oJ�����\u0011\u0018�g- ϳ�f��NGr\u0007%[ �$����;�\u0004�VN��,G��ϛ�KW{��\u0001o G��\u0019�8�\u0019v\u0000���\u0011�\u001e�Z0ㄔ:<q� ����z��M�jy˕�#&Ka\u001d۲O�������\u001bfGw�Z��-7S\u001e\u000e��vd"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/b0"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/b0/99d84bfd67f3f7f5aaedba448cc9edf6633539",
+    "vistaPrevia": "x\u0001��M�+�\u000e�[�\u001aŁۅD��\u001eK�:�.�Ϳ�>J��%J\u0019�No\u0003�\u0002'vة%R\u0014E.R�����������������g�����r�|���o>��<:\\�\u001e�����!<��'����s�\u001e���W}�����>��\u001f�����u�?����^Oퟏ���x���_�?tx�.����x>�_|��\u0007`�\u001f�j�X\u0000 D\u001d����Ǟl�s<^oǯ:5}\u0004\u0015���\u001a\u0010�\u001eߗ"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/b1"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/b1/13335db0aa0541f9c62839370ece8f1b583309",
+    "vistaPrevia": "x\u0001]�Ko�@\u0010�9�S�,��*�i�TAB\b\u000eHPD�\b�\u0013{b6]���H�|\u0018���q�\u0017cvmS�7������,�^������B+�`ea\u0006�n�0�&+�d����!�CS�\u0001�PS��@`(�i %A��hEv�f�}f�q~�9o�XJW67��\u0007!i�UE�t^��j��!�nu�d]��o�\u0012�J ��\u0000+C\u0015ZG@�\u0004��R�+����a� �\u0015\u0015NlD�%4�D"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/b7"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/b7/d140aace6126f00cdb87eef6b2e01d4b5501d9",
+    "vistaPrevia": "x\u0001�}��,����~��^\u001b?*��~\u0015��h�\u0006�} xZ\u0018~wGVUP�\u0011\u0019ʩ�\u0001g���� R�\u0010\u0012�/�ǿ����5t�����o�?�����������_����-��ڦy|���}��\u001f��_�+�k��5�ߢ�����������ߟ�i�>�\u001f�����׹��[�������yϴL�_+^��� A,;�\u0000D��[R l�\u0012\u0005a���Y#����^��W'!�}\ba�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/b8"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/b8/97dbdabbda30a64beb13a01314e015d6525eae",
+    "vistaPrevia": "x\u0001+)JMU047c040031QHI-NN,JO,�/K�I,��*fP���l��&�\u0007޻�_��!xɬ�\u0019�:#��$�(391\u0007�0?����\u0000�\u0012׫�����T_�n��\u0006�R�q@U�!�5\u0017z�.�XV�f�wy�R��\u001b��(3 h^Q|rb^IfJb �\u0005����g��V�j�v��͵\u001b�6�L\u0005\u0000�\u0018I�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/bf"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/bf/4e362ea1ba4e01cba4863137c3cf16c47df1fb",
+    "vistaPrevia": "x\u0001���K�0\u0010�}�_qvUV$�6\u0015Q�`�\u0016��\u000e6�A���u�l\u001biRؓ��2���������}�\u0017\u00172��ۓ�)K��v\u0013��5�e�ei^�b��Y�W,�*#D$��ʜ�R�\u0004��y�WkB:\u0010lP4�׀J� %�d���,\u0014+\u0014m\u001f����\b �V�7Z��o\u0016 F�}�\"��\u0004V h�%\u0012��\u0003�k D�9�n�\u0013.>�/\u0010<��\u001f@&k��d�����V�y�\\��(�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/c1"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/c1/8eeff76e90fa5a41cfc18953f19eca1baf02c5",
+    "vistaPrevia": "x\u0001uS���@\u0010�\u0011�HEq\u000f0T�\u0015㠫 (��#A��.�\u0002���\u001e�\u0016mv}����K\u0001--\u0005\u000f@E�#�B�\u0001�:v\u0014\"%Q\u001c���7����X�1ܿw\u0012 \u0007��ǁ�t~~}������ZA��x��3�p*�E�\u001fl;��:(,����L\u0018���:���n��wJ4��O�s�d\u0017b�9/�ѡ%�^�d0\u0013Z�M�&l�4�F�\u0010݅O��LD+�iKrP�3���5�u������k"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/c2"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/c2/e08f994933623b435318c0450d04db126901b8",
+    "vistaPrevia": "x\u0001͜�n�6\u0014����0��\u0004$%�\u0007h�ݠ�EaȎ�Q�H�l\u0007�\u0014y�ҞĔ��s�%Lgi{�/��\u001f�ֺ�� ��?��i�Xv�U_nꮭ����_����������]\u001b__n�U��mWmu�w��ϯ���W��my��e�خ�W��\u001e�v��\u0017��+��ޕ���vW��*���p��\u0007n����:K�L�Y埵�Cg�&\\\u001bs��sy����+\u0002��u�o���#�۲�J s6�/r�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/cc"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/cc/8cc25d0f76c5acf3982aa06a3fae34cf27c2f4",
+    "vistaPrevia": "x\u0001m�}<\u0014y\u001cǇ �:�\u0014N����V�\u001e\u0013���\u0010\u0015y��1;���̚�]��\u0014)!W)J8W�B\u000f�N�T��+a�n%�+��B:�\u0019f�^�������������~\u0014\u0001�\u001c�\u0002Gg���9��s@���(\u0012 \u0012�`\u0014$m6���`2��e�\u0003��c\u0013���\u0015�#�W� !)�@ ���w(\u001a&�lU���N_j���ҒIJ���a�\"` \u0014�\u0004\u0003SsM3B l��\u0016����!\u0015"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/cf"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/cf/f2adbe0f7d95ca50fb12c6da271682f612f469",
+    "vistaPrevia": "x\u0001�T�N�0\u0010e�W��6�\u0011b �����\u0002c��$.\u0018ܸ�\u0013 ��sg�Ĵ\u0014��\u00109>߻�ޝSiS\u0001�W�g�\u0019��Q�h��.uɪo�N�\u0016j��^ {{�\u001aщ l�U�1)l\u0013�ڴ��7��\u0005̀ 1Ȁ�%���@�\u0005�)7wZՒ\u0015#Fne��\u0016C�*��\u0002\u0004�V\u0013(R�\u001b�\b(�Ar�C�%\u0002?� \u0006W�\u0002�R ��I�q\u001d�j�>w/%�, �!�TOp�\u00022�w\u000e��\u0014�<y"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/d3"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/d3/e8cae7a3803af129cc502f026415e086704d45",
+    "vistaPrevia": "x\u0001��1\u000e�0 �a��\u0017\u0000�I�\u0000B�\u00191p\u0005�:`�`\u0014���S�G`{����,\u0015\\׭ja\u0006�-��G��@=R�C�\u0003���\u0003%\u0017ɥ`�Շ\u0016����$\\\u0011\u000e�e��\u0011��Ƨ{F�6��\b] !�\u0010�\u0000k�5s��+�A�k�<\u0003 ��w�/SU�����\u0007S9H�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/da"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/da/6cf62aacc1821ef8448b6fe3b64c3723db06d1",
+    "vistaPrevia": "x\u0001K��OR01c(��M-.I�-�I�+)JLI����+��)J-.�)IL��I��\u0005J%\u0016e�\u0017s\u0001\u0000\u001e�\u0014;"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/db"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/db/631dda263666acd74d77b631fac86c36d9fdc5",
+    "vistaPrevia": "x\u0001�W�R\u001bG\u0010�3_�T�,)2�0स��\u0010.\u001cs�\b��Pְ\u001a�(ˮ�; v@\u001f��<�)\u0010~,�s�ً\u0013�\u0007��N_Nw��齊�+��ml~\u0015&q&a��.���\\��ݚf���Ғ>J��\u0001� ϧY�r69\u0014\u0011\u001f}��v+X�����d���E�,K��+h�r�-��&B\u0016O\"N.ލNO�9K3�6v�Q�%�l.$�Pf}�\u0017���K\u001e��� �c��ͻ{\u0011W�DI�U^�\u0004m\u001d�T"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/e2"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/e2/3cc3dd9a93aa1fe23f7e33825f67b13ca3dc33",
+    "vistaPrevia": "x\u0001�[Is#Ǖ��E�R\u0018`�(������n�eʤH��\u000eO�\u001dP��\u0000��\u0005] �\u0014��_`_|��:9�\b\u001f\u0014:Ós�����?�����^f�\u0002\u0010\u00056@�'w4\u0001�����߫��\u000f��j7[�r�#�n���FdO��m��\u0003�¾�7�\u00148�#.�V\u0014s���\u0007/��C�2Lz\\�aď\u0002qeˎ��\u0011\u001b�� ě�\u000eD�4\u000eK�\u001f3բ�Gsɨ�x��+=��>f�*�\u0017\"`X��\u0006&��"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/e3"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/e3/d99c302b02573a215cb02ff2e5a733a66d5df6",
+    "vistaPrevia": "x\u0001�U�N�@\u0010�s�b*Q�\u0014� THm�< nJ%\b\"�\u0017�ac�ö��tw�E�\u001f�c\u001f+>!?�Y�7N� U�\b�=>3s��d��\u0004v�}�����D�6\u0013�r6��\u0015�ԍF,�6�j\u0018���3�h�Lu��\u0007w�D�b�HE� Qg�BωQRԡ�����L*FV�F��\u0010Ӓ��&��Z����\u001a N �d� �C�bF8�~���a�\u0006��1�\u0016�ʸ��l���~�&Eʦ�\"1+�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/e5"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/e5/4fd2f1ae895031d75897fecbce7201e1d8e6b6",
+    "vistaPrevia": "x\u0001�T]o�0\u0014�9��>U�T�u*{i\u0017 \u0004H<�\u0005�$�xp��ƕcG�S\u0006��;Nl7N\u0016mLڣ�ǹ\u001f>�n����jy���\u001cjb�\u0014���Nv���I\u0001\u0005\u001a���\u001b� �\\���\u00029��}\u0002@��\u0006h���p 7Ĕ\u0019��\u0010��\u001a\u0005�\u0005��Q.5�ק� iI��\u001d*&Uȯ�\u0018�/F�\u0011\u001e��G`ߚ:���%ۗ6��\"wOb�h M�D\u0018j\u0003�&g��!w�S�3�\\'\u000f�� ~�\u0007\u0016�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/e8"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/e8/2102c3dc8354eb7d46e684757253afa4b40f32",
+    "vistaPrevia": "x\u0001�U�n�6\u0010�o?��\u0018 \u0019PU'݀\u0007$��e Ҡ� �����a'�*I�3\u0002?̞a��\u0017�\u001dI�J�\u0002�\u001fK�;��w�w��z\u0003ǋ\u0017/�1���\u0006Ӥ�\u000eU���B�Jn�� ���p.�V\u0018����\u0016=Z(�������,�` �\u0014\u000f�א� 3��\u000eΤ\u0012�@X��A�\u0012�m���he2?�Ε��U�Of�ܗ�\u0019_@L9�\u001cC�}\u0014���p��s�:I���3��_ֿ-�5�@k���"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/ed"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/ed/84a5a0a28ad213ff075320f809ce71197a4e85",
+    "vistaPrevia": "x\u0001���n�0\u0014ƹ�S|�bM�(\u001d�@b�C�\u00161�(j 7\bU^r��2;�Nǘ�H\\�\b{1�8韄 |QU:���;�O�sy�'�g�\u001f%Rh�Lc\u0002E?J�(\u0018dz0\u001c�z�4[���|�1^��=�hDڰT� f�\u0014���Z�����t�j\u0011�_O狫˅�?���J������מY��\u0014��R�%�d9��ԬrЁ\"]��L\u000fq�\u0003<��w���\u000fQ��� ӑ\"���9-�D\u0012\u001cP\u000f�,"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/f1"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/f1/fa5d27695ad5a857a157a67f5a144abeec4e78",
+    "vistaPrevia": "x\u0001�V�n�6\u0010���� \u0004����%iP8�\u0006�\\\u0016\u0006�I\u0010{�� 6�D�l$�K�N\u0016�?����>����\u001f� )ʖ�\u0005� H�\u0019�p.g\u000eg\u0014�\u00119j\u001d��\u0014J�j2N�\u0019Q�ۜ+�U�i�vZ�\u001a��eAi\u0004��4\u001a�������}�����Mf��d$c \u001e��\u0007��\u000f����\u001b\u0017��\u0005��V��#N񒣦;�H�eO��\u0018\u0014?�Vb�Ɉ�T� \u0004�z���TK\u0005�{b�Tʥ`���"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/f2"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/f2/c76f49ab74984bf8a6341cbb292813c8d532d4",
+    "vistaPrevia": "x\u0001mP;N\u00031\u0010��)\u001e B�صH\u0011�\u0014+Q�\u0002�`lO�����\u001f\u0004 7�\u0014\\ �BI1���7�iL\u0014����n{�\u001dU�%+�X9/�C�C�[�ڄ� �Y�-�Z%P� �m�\u001c\u0004}�p\u001cq��\u000e�u��K\u0018����P3���J?]�� \u0019\u001d��Rb�TP�sx������Ģc\u0019V�x)�&D�ES�ҋ�\u0007����z��g���\b��;1�JB$��΄+eBa��\u00128uo}*؜�����"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/f5"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/f5/946ec9bff62d04a2fd11876ebcaf3f903c58bb",
+    "vistaPrevia": "x\u0001��K�\u0013A �Y�)�\u0000uG�:�X f\u0014�H�f\u0005��\u0005��v���ˡ\u001eH\u0010�0\u001c��\u001c!\u0017��GH@l�U��l��o-o��|��b\u0017\"4\u0001\u0016��K2��� ��>�o�\u0012ޙ\u0010=� �d#� ����lx��\u0007]~6��'�&�-\u0007�\b5E�*s~vr������_A!2\u0004��(��=X��}\u000e�!&��睩� �d��\\v+-�!- �yo�{�����!6��E\u001f���O�bUf�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/f9"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/f9/cbfc5c0bd1e7034b75a237264864da30f311f8",
+    "vistaPrevia": "x\u0001K��OR03a��W��OO��KWHIU�/H-JL���K-�J��+��I���O�P\u000fJM�,.)J�Kɇ):�9O]�\u001a\u0000y�\u0019�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/fa"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/fa/b914725ec941b122a03fca15005f7780238508",
+    "vistaPrevia": "x\u0001�U�n\u00131\u0010朧�C�ݔ�$��* ��#�@�EB�\"��L\u0012S���ޔ�Zޅ#\u0007��/����.\"\u0017\"EIf�������B�\u0005����<\u001a\u000e��p��\u001bT�� ]�y��R�e_m/��:XY���o�0�&+���j�ƹ�/g0x �w�BK O>_^\\�z�4�B94[\u001e|�|g�\"\u0017����h�@s����\u001c��\u0001T5��X�%8�(ͷ\u0012��<���D�q��ד�K��_�΂�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/info"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/pack"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/refs"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/refs/heads"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/refs/heads/main",
+    "vistaPrevia": "d3e8cae7a3803af129cc502f026415e086704d45"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/refs/remotes"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/refs/remotes/origin"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/refs/remotes/origin/main",
+    "vistaPrevia": "d3e8cae7a3803af129cc502f026415e086704d45"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/refs/tags"
+  },
+  {
     "tipo": "archivo",
     "ruta": "actualizarVelas.js",
     "vistaPrevia": "const fs = require('fs'); const archivo = './datos/velas.json'; // Leer las velas existentes let velas = JSON.parse(fs.readFileSync(archivo, 'utf8')); // Convertir todos los timestamps a formato ISO s"
@@ -17,7 +747,12 @@
   {
     "tipo": "archivo",
     "ruta": "autolog.sh",
-    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/bash # Ruta al directorio base del proyecto cd ~/mi-bot-de-trading # Ejecutar el escaneo de archivos node tools/ls-scan.js >> logs/autolog.log 2>&1 # Agrega una l"
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/bash # Ruta base del proyecto cd ~/mi-bot-de-trading # Fecha actual FECHA=$(date '+%Y-%m-%d') HORA=$(date '+%H:%M:%S') TIMESTAMP=$(date '+%Y-%m-%d_%H-%M') # Ejecu"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "autoupdater.sh",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/bash while true; do echo \"---- AUTOBACKUP ----\" bash ~/mi-bot-de-trading/autolog.sh echo \"---- Esperando 5 minutos ----\" sleep 300 done"
   },
   {
     "tipo": "archivo",
@@ -27,6 +762,11 @@
   {
     "tipo": "carpeta",
     "ruta": "backups"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "backups/backup-2025-04-13_00-00.zip",
+    "vistaPrevia": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u00004 �Z��B��\u0001\u0000\u0000�\u0003\u0000\u0000\u0006\u0000\u001c\u0000bot.jsUT \u0000\u0003\u0003��gx��gux \u0000\u0001\u0004�)\u0000\u0000\u0004�)\u0000\u0000��Kn�@ ��:\u0005\u0017-$\u0003�\u001c��\u0002 \u001c����Z\u0017�\u0005(u��НG���az��r\u0004_�\u001c����*Z�8�Ϗ�P��\u0001j\u000f+p�=jGE^�|q����$�F�����G\u0013�b8ϳ���SBW�-��E��`�\u001e BE��җ'+G�\u0016�\u0018\\�+�\u0007\u0006O��\u0007E�"
   },
   {
     "tipo": "archivo",
@@ -66,7 +806,12 @@
   {
     "tipo": "archivo",
     "ruta": "chatgpt.sh",
-    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/bash # Archivo: chatgpt.sh # Directorios importantes JSON_FILE=\"logs/input_para_chatgpt.json\" DESTINO=\"chatgpt/para_enviar.json\" # Verificar que el archivo existe"
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/bash # Archivo: chatgpt.sh # Directorios importantes JSON_FILE=\"logs/input_para_chatgpt.json\" DESTINO_DIR=\"chatgpt\" DESTINO_FILE=\"$DESTINO_DIR/para_enviar.json\" #"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "chatlog.md",
+    "vistaPrevia": "Log de charla: Sat Apr 12 23:50:03 -03 2025 Log de charla: Sat Apr 12 23:55:27 -03 2025 Log de charla: Sat Apr 12 23:56:41 -03 2025 Log de charla: Sat Apr 12 23:58:18 -03 2025 Log de charla: Sun Apr 1"
   },
   {
     "tipo": "carpeta",
@@ -192,18 +937,33 @@
     "vistaPrevia": "// indicadores.js function calcularEMA(data, periodo) { const k = 2 / (periodo + 1); let ema = data.slice(0, periodo).reduce((a, b) => a + b, 0) / periodo; const resultados = [ema]; for (let i = perio"
   },
   {
+    "tipo": "archivo",
+    "ruta": "log-dashboard.html",
+    "vistaPrevia": "<!DOCTYPE html> <html lang=\"es\"> <head> <meta charset=\"UTF-8\"> <title>Log Dashboard</title> <style> body { font-family: monospace; background: #121212; color: #f1f1f1; padding: 20px; } h1, h2 { color:"
+  },
+  {
     "tipo": "carpeta",
     "ruta": "logs"
   },
   {
     "tipo": "archivo",
+    "ruta": "logs/autolog.log",
+    "vistaPrevia": "🗂 Escaneando estructura del proyecto... ✅ Inventario guardado en logs/ls-scan.json 🧠 Resumen listo para ChatGPT en logs/input_para_chatgpt.json Escaneo ejecutado en: Sat Apr 12 23:50:03 -03 2025 🗂 "
+  },
+  {
+    "tipo": "archivo",
     "ruta": "logs/input_para_chatgpt.json",
-    "vistaPrevia": "[ { \"tipo\": \"archivo\", \"ruta\": \"actualizarVelas.js\", \"vistaPrevia\": \"const fs = require('fs'); const archivo = './datos/velas.json'; // Leer las velas existentes let velas = JSON.parse(fs.readFileSync"
+    "vistaPrevia": "[ { \"tipo\": \"carpeta\", \"ruta\": \".git\" }, { \"tipo\": \"archivo\", \"ruta\": \".git/COMMIT_EDITMSG\", \"vistaPrevia\": \"Primer commit: proyecto iniciado\" }, { \"tipo\": \"archivo\", \"ruta\": \".git/HEAD\", \"vistaPrevia"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "logs/last_backup_time.txt",
+    "vistaPrevia": "1744513201"
   },
   {
     "tipo": "archivo",
     "ruta": "logs/ls-scan.json",
-    "vistaPrevia": "[ { \"tipo\": \"archivo\", \"ruta\": \"actualizarVelas.js\", \"extension\": \".js\", \"tamaño\": 1069, \"vistaPrevia\": \"const fs = require('fs'); const archivo = './datos/velas.json'; // Leer las velas existentes le"
+    "vistaPrevia": "[ { \"tipo\": \"carpeta\", \"ruta\": \".git\" }, { \"tipo\": \"archivo\", \"ruta\": \".git/COMMIT_EDITMSG\", \"extension\": \"\", \"tamaño\": 33, \"vistaPrevia\": \"Primer commit: proyecto iniciado\" }, { \"tipo\": \"archivo\", \"r"
   },
   {
     "tipo": "archivo",
@@ -275,7 +1035,17 @@
   {
     "tipo": "archivo",
     "ruta": "tools/autolog.sh",
-    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/bash # Ruta al directorio base del proyecto cd ~/mi-bot-de-trading # Ejecutar el escaneo de archivos node tools/ls-scan.js >> logs/autolog.log 2>&1 # Agrega una l"
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/bash cd ~/mi-bot-de-trading # Ejecutar escaneo node tools/ls-scan.js >> logs/autolog.log 2>&1 echo \"Escaneo ejecutado en: $(date)\" >> logs/autolog.log # Backup ca"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "tools/backup.sh",
+    "vistaPrevia": "#!/data/data/com.termux/files/usr/bin/bash # Crear backup comprimido del proyecto (sin node_modules ni resultados pesados) PROYECTO=~/mi-bot-de-trading DESTINO=\"$PROYECTO/backups\" FECHA=$(date +\"%Y-%m"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "tools/chatgpt.sh",
+    "vistaPrevia": "# Agregar información del último backup ULTIMO_BACKUP=$(ls -t backups/*.zip 2>/dev/null | head -n 1) echo \"{ \\\"ultimo_backup\\\": \\\"$ULTIMO_BACKUP\\\" }\" >> chatgpt/para_enviar.json"
   },
   {
     "tipo": "archivo",
