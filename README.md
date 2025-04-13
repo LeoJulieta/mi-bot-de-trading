@@ -1,6 +1,6 @@
 # Proyecto: Mi bot de trading
 
-Última actualización: Sun Apr 13 01:54:43 -03 2025
+Última actualización: Sun Apr 13 02:33:23 -03 2025
 
 ## Estructura de carpetas
 .
@@ -13,7 +13,8 @@
 ├── backtest.json
 ├── backups
 │   ├── backup-2025-04-13_00-00.zip
-│   └── backup-2025-04-13_01-47.zip
+│   ├── backup-2025-04-13_01-47.zip
+│   └── backup-2025-04-13_01-54.zip
 ├── bot-inteligente.js
 ├── bot.js
 ├── bot_actual_mal.js
@@ -77,8 +78,9 @@
 │   └── ls-scan.js
 └── version-estable-bot-v1.txt
 
-9 directories, 64 files
+9 directories, 65 files
 
 ## Últimos cambios
+- 439b1d0 Auto backup y sincronización: 2025-04-13 01:54:39 (2025-04-13 01:54:50 -0300)
 - 508d992 Auto backup y sincronización: 2025-04-13 01:47:25 (2025-04-13 01:47:34 -0300)
 - d3e8cae Primer commit: proyecto iniciado (2025-04-12 13:19:24 -0300)

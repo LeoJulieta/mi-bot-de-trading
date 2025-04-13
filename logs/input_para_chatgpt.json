@@ -6,7 +6,7 @@
   {
     "tipo": "archivo",
     "ruta": ".git/COMMIT_EDITMSG",
-    "vistaPrevia": "Auto backup y sincronización: 2025-04-13 01:47:25"
+    "vistaPrevia": "Auto backup y sincronización: 2025-04-13 01:54:39"
   },
   {
     "tipo": "archivo",
@@ -100,7 +100,7 @@
   {
     "tipo": "archivo",
     "ruta": ".git/index",
-    "vistaPrevia": "DIRC\u0000\u0000\u0000\u0002\u0000\u0000\u0000?g�A�+\\\u0005�g�A�+\\\u0005�\u0000\u0001\u0003\u001d\u0000\u0018@\u0018\u0000\u0000��\u0000\u0000)�\u0000\u0000)�\u0000\u0000\b�Y^�\u0012٥\u0007OF��;���š� w\u0000 README.md\u0000g�x�\u0013���g�x�\u0013���\u0000\u0001\u0003\u001d\u0000\b�;\u0000\u0000��\u0000\u0000)�\u0000\u0000)�\u0000\u0000\u0004- ��\u0000 y|�6���\b\u0015���s��\u0000\u0012actualizarVelas.js\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000g�g�\u0019֨Eg�g�\u0019֨E\u0000\u0001\u0003\u001d\u0000\u0018\u001b�\u0000\u0000��\u0000\u0000)�"
+    "vistaPrevia": "DIRC\u0000\u0000\u0000\u0002\u0000\u0000\u0000Ag�C� iYg�C� iY\u0000\u0001\u0003\u001d\u0000\u0018@\u0018\u0000\u0000��\u0000\u0000)�\u0000\u0000)�\u0000\u0000 J����>���:IGz0$.���\u001e\u0000 README.md\u0000g�x�\u0013���g�x�\u0013���\u0000\u0001\u0003\u001d\u0000\b�;\u0000\u0000��\u0000\u0000)�\u0000\u0000)�\u0000\u0000\u0004- ��\u0000 y|�6���\b\u0015���s��\u0000\u0012actualizarVelas.js\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000g�g�\u0019֨Eg�g�\u0019֨E\u0000\u0001\u0003\u001d\u0000\u0018\u001b�\u0000\u0000��\u0000\u0000)�\u0000"
   },
   {
     "tipo": "carpeta",
@@ -341,6 +341,20 @@
     "vistaPrevia": "x\u0001��[ �0\u0010E�v\u0015C�El-\u0016\\�;�i\u0012!�f�4->pU.��9���\b�O�ޙ �S:*!/��y ��\u0018��6M�\u0010�4�4�m�,y)��,ܮ\u001er��F^� �>\u0018涪���CM L{ G0>0j\u0004\u0004�P�\u001e�Y�4\u00015ų���h�w&f��e��� ٿ�O\u0003`�3`\u000f����\u0002�\u0000����\u001do�\u0015O�\u0007M�3\u000f��F\u0010MMt�Z䀃Tq/�G7�3M\\Y�7�|��g�jz�\u0003"
   },
   {
+    "tipo": "archivo",
+    "ruta": ".git/objects/43/9b1d0e28de9fddaa922954062875a3fcc33bbf",
+    "vistaPrevia": "x\u0001���M�0\u0010F9��i h��L�\u0010{E4a�m�WY���E 4F$J���=���Vk� �{�{J�3Y� � �\u0016\u000e��bLfZ��S�\u001a\u0013{����=m\u001d\u000e\u001d���\u001c\u0003�\u0018�3G�� �t��@QYv��vxK�u\\J�\u001e����[�>Bzy��\\\u001e��g���F\"\u0012 Q\u001c�8��?\u0012�4z���s\\�\u000e���޶���|o+H�fB=� p^�^\u0015�_\u001f�X�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/44"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/44/d735ce05754c973ce4237c0cec7820b9df304b",
+    "vistaPrevia": "x\u0001�yw\u001c�u/8ϧH\u0012$\u0001�\u0000*3+k\u0003 ��\u000en�\u0002p\u0005\bffe\u0002E\u0016���\u0002� �d�Ւ�X�\u0016��-�,��[��s�^���n��VK��O���\u0019���'���ި�\"�E�Y:\u001eϜ\u0007܌���dč\u001b��X2+(W\u0003+�\u0015���v���\u001b�,k}��P]?l�\u000f��B���\u000f(��\b?�C���z�V��'�_ �JK��eI�\u001e?rdlbf�#'�7�,�� �X-Z*Iᣋ��\u0015"
+  },
+  {
     "tipo": "carpeta",
     "ruta": ".git/objects/48"
   },
@@ -362,6 +376,20 @@
     "tipo": "archivo",
     "ruta": ".git/objects/4a/41e81003fe7445d5cb33effe0927aaeebb30b0",
     "vistaPrevia": "x\u0001��ͮ���$��~�\u000fw\\�X���UzV���\u0002��&P�]�B�{���A Gbв������Za��$\u0006E�����k��u<�����?�����_�������\u001f����m\u001e�i��\u001f���������o�������>�/����/<�����'�o���_����>�\u0017�������C�����\u0003��l]\u00051�������\u0006�w\u0006A�$�a\u001e\u0003\u0010�\\\u0007���"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/4a/42e877a5df451e2872d599cd4fec50663878d9",
+    "vistaPrevia": "x\u0001+)JMU043e040031QHJL�.-�5202�50�54�70�50Ы�,`���U�1���+�$\u0013�f�^�]�[����9X[<�\\ڂG�*ט;��N�:c��o.>m�&`m��}��{t��{�s�͗��L��7\u0000�\u001c8o"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/4f"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/4f/964759c7ba98cbf50855fc98331ed640eca443",
+    "vistaPrevia": "x\u0001m�{XLy\u0018�O�n�\u0016]�E \u001b�e�+��\u0012J�Pzh�t�4s8s�tΙj'�4�ts �J\u0014�U.S��ZK��#�,��\u0011K�\u001be�f4�m�:�3��{�\u001fC���\u001d�c\u0007q9\u001c'\u0007\u0007�@/w�E^�\">TY�ud�\u0005َ� �����ə���J\bF\u0018 �cR�Z��0m����zR �?��v*�ܧk�P���)�G�\u0018͐\u0014���d� E�����M���3�cNL�|�J\""
   },
   {
     "tipo": "carpeta",
@@ -474,6 +502,20 @@
   },
   {
     "tipo": "carpeta",
+    "ruta": ".git/objects/88"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/88/e2a1a434ca5ff415bc6ea307d4d58bff0116a7",
+    "vistaPrevia": "x\u0001�V�N�F\u0014��$\u0005�\u001dG@{QP�حY��\u0016\u0001{�\"���\u00133�=�\u0019#����KT��\u0019�\b�I��ߌ�\u0004� -\u0012�=>��9�;\u001e�zL��?����׃�;�^2]%N���\u001bLd)젱f0�j0��:���q�� (\u0017%�FOE�t���Ǡ�l�\u001d�\u0005s��R\u0015tO��Ȯ5ũ1�\u0010/)��Xr\u0003}ʥ��F�x�ĝt��G�{7�P��3��2:L�\u001c\u001d {\u001b\bS����_X�b�|"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/88/f106e310ccd8af8d977aaba191e8f42f9349b5",
+    "vistaPrevia": "x\u0001��KN�0\u0010�Y�\u0014���v�W\u001f��T�n\u0010l\u0010;�*�\u001e\u0012�؎bG�^�#p1��U\u0017m�j����Ϛ��\u0005̒��Mse c �\\����Ϯ�opʈ�\u001a��B���\u001cb\u0016g��$J�Ey:��,�(�\u000fU�\u0003QqS��B�&\u0019(���\u001aw{7�B�\u0004�5� 2 @��=��\u0012!bl���Y?<o����\u001e �����g\u0019�~�ږ�Ug6�r��޽�$\u0019&��.\u001c#9qm\u0019#�ѝjά�"
+  },
+  {
+    "tipo": "carpeta",
     "ruta": ".git/objects/8a"
   },
   {
@@ -569,6 +611,15 @@
   },
   {
     "tipo": "carpeta",
+    "ruta": ".git/objects/a3"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/a3/134d72738c2d5eaf49670a069f1ed9e62136fb",
+    "vistaPrevia": "x\u0001d�cp.P�\u0006�ֶm۶���ڶm���m۶�]۶ۻ�w�o��\u001fɬ?Y�̓�y&�2��3$dffbcdde\u0003(ʀ��\u0002\u0000\u0000H\u0000+\\��̶pd\u001d\u0010\u0000\u0010 \u0002\u0000�\u0003p\u0001�v���N*��\u0000 7of�of.�0\u0000 �&*\u0000�?�8A�vC\u00106�\u001b ��\u0014$\u00007/\u0012\u0018\u000e��?�J\u0013�\u001al ��%j~.[\"`���ӿ�\u0011T� ����Z3��p6�G�� �\u0012�����RBL���!����tO�cw"
+  },
+  {
+    "tipo": "carpeta",
     "ruta": ".git/objects/a6"
   },
   {
@@ -632,6 +683,24 @@
   },
   {
     "tipo": "carpeta",
+    "ruta": ".git/objects/bb"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/bb/54354195159c1843cac1a2b64d2683ef617824",
+    "vistaPrevia": "x\u0001+)JMU0�d040031Q0202�50�54�-J-.�M���Ma���/�ʬ��\u0019i��,MJ^\u001d��\u0001�w\u0013R"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/be"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/be/b19ca83ebf84933a49477a30242e8c99e7b61e",
+    "vistaPrevia": "x\u0001}VKn�0\u0010�ڧ �M T�,;M�]�f\u0019$H�n�1��l)R )7ɪ�\u0019�*��\u001dz��&9I��i��S�\u0002�\u0019��͛!WR�H1?9}sD������%�\u0014d�\u001da�8\u0003L�j2y�%���\u0000u-H�\u0000T<�UK�U�1d6'�ly�X.�$��ȋ����\\XgZ42��Q0 w`'������\u001f�#7\u0017�./�5�d�8� �`�_�Ae�\u0016�i#�\u001e�h���\u0019��i�����"
+  },
+  {
+    "tipo": "carpeta",
     "ruta": ".git/objects/bf"
   },
   {
@@ -673,6 +742,15 @@
   },
   {
     "tipo": "carpeta",
+    "ruta": ".git/objects/cb"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/cb/7186ebdf337242faae9bb1f995322abb9568cf",
+    "vistaPrevia": "x\u0001+)JMU060c040031QH,-���O�\u0003b�\u001b�zG�e����\u0017�\u0013?k�\u0004�r����\u0012����l�\u0005��X�;�j�/��O�� U��WPZ\u0012_�X�\u0018���X�^P��U����r��\u001ck��t�'�5<o*\u0014v�7��j�I,.�OJL�.-�/��M�+�(a\u0010T6Z u��ʙ]\u0019�S�D��NK/�-NÑ���;e\u0005斊��>���\u001e;.�� �.7� 1>�("
+  },
+  {
+    "tipo": "carpeta",
     "ruta": ".git/objects/cc"
   },
   {
@@ -697,6 +775,15 @@
     "tipo": "archivo",
     "ruta": ".git/objects/d3/e8cae7a3803af129cc502f026415e086704d45",
     "vistaPrevia": "x\u0001��1\u000e�0 �a��\u0017\u0000�I�\u0000B�\u00191p\u0005�:`�`\u0014���S�G`{����,\u0015\\׭ja\u0006�-��G��@=R�C�\u0003���\u0003%\u0017ɥ`�Շ\u0016����$\\\u0011\u000e�e��\u0011��Ƨ{F�6��\b] !�\u0010�\u0000k�5s��+�A�k�<\u0003 ��w�/SU�����\u0007S9H�"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/d8"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/d8/612ec56f1c264f6e22b79f12dc5f9a91904677",
+    "vistaPrevia": "x\u0001�]͎+�u�ZO�M\u0000g������-_8Z(2$!\u001b#\u0018�� %�M��k��\u0000y�l\u0002�^�A�&y\u0002?��n\u000e�]Mr�$؉�\u0000���<]U�����s����ϸ\u0015��ß���>�� n��:v���o���i�f1-g�m��\u0014�����g��_�1�b�1��n��f\u000fOn\u001b]��z��\u001ev��ݼ\u001f��]������?ξN��U��b��f\u001b�A?t�_��ۗ�\u0016�������"
   },
   {
     "tipo": "carpeta",
@@ -759,6 +846,15 @@
   },
   {
     "tipo": "carpeta",
+    "ruta": ".git/objects/e7"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/e7/4b64a80f69b478a31f4c57fb5786e341a6f3ba",
+    "vistaPrevia": "x\u0001�yw[�u/�����H�DR\"�3�\u001c�\u00125O�D �FR�\u0001p\u000e \u0004(\u0000$5Q��َ�x�\u0013\u000fq<�iǎg���kYm����m�����v�3�������\u0004��ۻ0H-P�����Z!��S�k8U�v��5\"W�䬌�ڙ������x,k}��XY?j��G�Ÿ\u001e�\u001fRtu v�G���@�\u0012_����/.W\u001e\u0014%�g������}{�'��:�\b\u0012_���Z�Rf� d=Z��"
+  },
+  {
+    "tipo": "carpeta",
     "ruta": ".git/objects/e8"
   },
   {
@@ -792,6 +888,15 @@
     "tipo": "archivo",
     "ruta": ".git/objects/f2/c76f49ab74984bf8a6341cbb292813c8d532d4",
     "vistaPrevia": "x\u0001mP;N\u00031\u0010��)\u001e B�صH\u0011�\u0014+Q�\u0002�`lO�����\u001f\u0004 7�\u0014\\ �BI1���7�iL\u0014����n{�\u001dU�%+�X9/�C�C�[�ڄ� �Y�-�Z%P� �m�\u001c\u0004}�p\u001cq��\u000e�u��K\u0018����P3���J?]�� \u0019\u001d��Rb�TP�sx������Ģc\u0019V�x)�&D�ES�ҋ�\u0007����z��g���\b��;1�JB$��΄+eBa��\u00128uo}*؜�����"
+  },
+  {
+    "tipo": "carpeta",
+    "ruta": ".git/objects/f3"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": ".git/objects/f3/e80e59d49a8c83986681670482224a88ce3b87",
+    "vistaPrevia": "x\u0001\u0015�K �0\u0014E\u001dw\u0015\u0017:.���\u001d*�cw��\u0012��4�|\u0004ݍkqc�х�9W���O�mq��l��X�A s���\u001f�\u000e���m\u0000�\u001c��' \u0007؛��T G �_�i\u0019�U?\u0010�ˣހW���\u0002E^�\u0019\u0012�x��˻�U=Ҧ友\u0016S�p�|)��\u00010+1r"
   },
   {
     "tipo": "carpeta",
@@ -839,7 +944,7 @@
   {
     "tipo": "archivo",
     "ruta": ".git/refs/heads/main",
-    "vistaPrevia": "508d99262cdb92dd9cfcdc690e0627f56b9d36c7"
+    "vistaPrevia": "439b1d0e28de9fddaa922954062875a3fcc33bbf"
   },
   {
     "tipo": "carpeta",
@@ -852,7 +957,7 @@
   {
     "tipo": "archivo",
     "ruta": ".git/refs/remotes/origin/main",
-    "vistaPrevia": "508d99262cdb92dd9cfcdc690e0627f56b9d36c7"
+    "vistaPrevia": "439b1d0e28de9fddaa922954062875a3fcc33bbf"
   },
   {
     "tipo": "carpeta",
@@ -861,7 +966,7 @@
   {
     "tipo": "archivo",
     "ruta": "README.md",
-    "vistaPrevia": "# Proyecto: Mi bot de trading Última actualización: Sun Apr 13 01:47:29 -03 2025 ## Estructura de carpetas . ├── README.md ├── actualizarVelas.js ├── actualizar_historico.js ├── autoentrenador.js ├── "
+    "vistaPrevia": "# Proyecto: Mi bot de trading Última actualización: Sun Apr 13 01:54:43 -03 2025 ## Estructura de carpetas . ├── README.md ├── actualizarVelas.js ├── actualizar_historico.js ├── autoentrenador.js ├── "
   },
   {
     "tipo": "archivo",
@@ -905,6 +1010,11 @@
   {
     "tipo": "archivo",
     "ruta": "backups/backup-2025-04-13_01-47.zip",
+    "vistaPrevia": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u00004 �Z��B��\u0001\u0000\u0000�\u0003\u0000\u0000\u0006\u0000\u001c\u0000bot.jsUT \u0000\u0003\u0003��gx��gux \u0000\u0001\u0004�)\u0000\u0000\u0004�)\u0000\u0000��Kn�@ ��:\u0005\u0017-$\u0003�\u001c��\u0002 \u001c����Z\u0017�\u0005(u��НG���az��r\u0004_�\u001c����*Z�8�Ϗ�P��\u0001j\u000f+p�=jGE^�|q����$�F�����G\u0013�b8ϳ���SBW�-��E��`�\u001e BE��җ'+G�\u0016�\u0018\\�+�\u0007\u0006O��\u0007E�"
+  },
+  {
+    "tipo": "archivo",
+    "ruta": "backups/backup-2025-04-13_01-54.zip",
     "vistaPrevia": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u00004 �Z��B��\u0001\u0000\u0000�\u0003\u0000\u0000\u0006\u0000\u001c\u0000bot.jsUT \u0000\u0003\u0003��gx��gux \u0000\u0001\u0004�)\u0000\u0000\u0004�)\u0000\u0000��Kn�@ ��:\u0005\u0017-$\u0003�\u001c��\u0002 \u001c����Z\u0017�\u0005(u��НG���az��r\u0004_�\u001c����*Z�8�Ϗ�P��\u0001j\u000f+p�=jGE^�|q����$�F�����G\u0013�b8ϳ���SBW�-��E��`�\u001e BE��җ'+G�\u0016�\u0018\\�+�\u0007\u0006O��\u0007E�"
   },
   {
@@ -1097,7 +1207,7 @@
   {
     "tipo": "archivo",
     "ruta": "logs/input_para_chatgpt.json",
-    "vistaPrevia": "[ { \"tipo\": \"carpeta\", \"ruta\": \".git\" }, { \"tipo\": \"archivo\", \"ruta\": \".git/COMMIT_EDITMSG\", \"vistaPrevia\": \"Primer commit: proyecto iniciado\" }, { \"tipo\": \"archivo\", \"ruta\": \".git/HEAD\", \"vistaPrevia"
+    "vistaPrevia": "[ { \"tipo\": \"carpeta\", \"ruta\": \".git\" }, { \"tipo\": \"archivo\", \"ruta\": \".git/COMMIT_EDITMSG\", \"vistaPrevia\": \"Auto backup y sincronización: 2025-04-13 01:54:39\" }, { \"tipo\": \"archivo\", \"ruta\": \".git/HE"
   },
   {
     "tipo": "archivo",
@@ -1107,7 +1217,7 @@
   {
     "tipo": "archivo",
     "ruta": "logs/ls-scan.json",
-    "vistaPrevia": "[ { \"tipo\": \"carpeta\", \"ruta\": \".git\" }, { \"tipo\": \"archivo\", \"ruta\": \".git/COMMIT_EDITMSG\", \"extension\": \"\", \"tamaño\": 33, \"vistaPrevia\": \"Primer commit: proyecto iniciado\" }, { \"tipo\": \"archivo\", \"r"
+    "vistaPrevia": "[ { \"tipo\": \"carpeta\", \"ruta\": \".git\" }, { \"tipo\": \"archivo\", \"ruta\": \".git/COMMIT_EDITMSG\", \"extension\": \"\", \"tamaño\": 51, \"vistaPrevia\": \"Auto backup y sincronización: 2025-04-13 01:54:39\" }, { \"tip"
   },
   {
     "tipo": "archivo",
@@ -1170,7 +1280,7 @@
   {
     "tipo": "archivo",
     "ruta": "resumenes/2025-04-13-resumen.md",
-    "vistaPrevia": "## Resumen del 2025-04-13 - Escaneo automático ejecutado a las 01:47:25 - Backup de charla y archivos sincronizado - Cambios subidos a GitHub"
+    "vistaPrevia": "## Resumen del 2025-04-13 - Escaneo automático ejecutado a las 01:54:39 - Backup de charla y archivos sincronizado - Cambios subidos a GitHub"
   },
   {
     "tipo": "carpeta",
