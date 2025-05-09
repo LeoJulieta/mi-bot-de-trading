@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 RUTA_REPORTE = "reporte_analisis.json"
 
@@ -24,32 +25,43 @@ def aplicar_correcciones():
         with open(archivo, "r", encoding="utf-8") as f:
             lineas = f.readlines()
 
+        nuevas_lineas = lineas[:]
+        offset = 0  # por si insertamos líneas
+
         for error in errores:
             tipo = error["tipo"]
-            linea_idx = error["linea"] - 1
+            linea_idx = error["linea"] - 1 + offset
 
-            if 0 <= linea_idx < len(lineas):
-                comentario = ""
+            if 0 <= linea_idx < len(nuevas_lineas):
+                original = nuevas_lineas[linea_idx]
 
                 if tipo == "SyntaxError":
-                    comentario = "# Posible error de sintaxis"
-                elif tipo == "NameError":
-                    comentario = "# Posible variable o función no definida"
-                elif tipo == "IndentationError":
-                    comentario = "# Posible error de indentación"
-                elif tipo == "TypeError":
-                    comentario = "# Posible uso incorrecto de tipo de dato"
-                else:
-                    comentario = f"# Posible error detectado: {tipo}"
+                    if re.match(r"^\s*(if|for|while|def|elif|else).*[^:]\s*$", original.strip()):
+                        nuevas_lineas[linea_idx] = original.rstrip("\n") + ":\n"
+                        cambios_realizados += 1
 
-                if comentario and comentario not in lineas[linea_idx]:
-                    lineas[linea_idx] = lineas[linea_idx].rstrip("\n") + f"  {comentario}\n"
+                elif tipo == "NameError":
+                    match = re.findall(r"\b([a-zA-Z_][a-zA-Z0-9_]*)\b", original)
+                    for var in match:
+                        if var not in ("print", "range", "len", "int", "str"):  # funciones comunes
+                            nueva_linea = f'{var} = "valor_autogenerado"\n'
+                            nuevas_lineas.insert(linea_idx, nueva_linea)
+                            offset += 1
+                            cambios_realizados += 1
+                            break
+
+                elif tipo == "IndentationError":
+                    nuevas_lineas[linea_idx] = "    " + original.lstrip()
+                    cambios_realizados += 1
+
+                elif tipo == "TypeError":
+                    nuevas_lineas[linea_idx] = "# Revisar tipos: " + original
                     cambios_realizados += 1
 
         with open(archivo, "w", encoding="utf-8") as f:
-            f.writelines(lineas)
+            f.writelines(nuevas_lineas)
 
-    print(f"Correcciones aplicadas en {cambios_realizados} líneas.")
+    print(f"Correcciones reales aplicadas en {cambios_realizados} líneas.")
 
 if __name__ == "__main__":
     aplicar_correcciones()
