@@ -6,6 +6,7 @@ on:
 jobs:
   aplicar:
     runs-on: ubuntu-latest
+
     steps:
       - name: Clonar repositorio
         uses: actions/checkout@v3
@@ -15,13 +16,39 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Instalar dependencias de calidad
+        run: |
+          python -m pip install --upgrade pip
+          pip install black flake8 pylint
+
       - name: Ejecutar script aplicar_sugerencias.py
         run: python aplicar_sugerencias.py
+
+      - name: Formatear código con black
+        run: black .
+
+      - name: Revisar estilo con flake8
+        run: flake8 . || echo "Advertencias flake8 (no se detiene el flujo)"
+
+      - name: Análisis con pylint
+        run: |
+          pylint . --exit-zero > pylint_full.txt
+
+      - name: Resumir análisis de calidad
+        run: |
+          echo "# Resumen de análisis" > resumen_analisis.txt
+          echo "## pylint (últimos 20 mensajes):" >> resumen_analisis.txt
+          tail -n 20 pylint_full.txt >> resumen_analisis.txt
+          echo "\n## flake8:" >> resumen_analisis.txt
+          flake8 . --count --statistics >> resumen_analisis.txt
+
+      - name: Validar que el código compile y preparar resumen para IA
+        run: python validador_post_correccion.py
 
       - name: Hacer commit y push de los cambios
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "Aplicar sugerencias automáticas de IA"
+          git diff --cached --quiet || git commit -m "Aplicar sugerencias automáticas de IA"
           git push
