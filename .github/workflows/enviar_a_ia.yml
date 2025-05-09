@@ -17,3 +17,9 @@ jobs:
 
       - name: Ejecutar script enviar_a_ia.py
         run: python enviar_a_ia.py
+
+      - name: Guardar archivo de sugerencias
+        uses: actions/upload-artifact@v4
+        with:
+          name: sugerencias
+          path: sugerencias.md
