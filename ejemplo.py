@@ -1,1 +1,2 @@
-def suma(a,b): return a + b
+# test_pipeline.py
+def resta(a,b):return a-b
