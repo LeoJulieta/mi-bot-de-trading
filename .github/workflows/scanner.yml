@@ -21,7 +21,7 @@ jobs:
         run: python scanner_basico.py
 
       - name: Subir reporte como artefacto
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@main
         with:
           name: reporte_analisis
           path: reporte_analisis.json
