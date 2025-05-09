@@ -1,6 +1,12 @@
 ************* Module ejemplo
 ejemplo.py:1:0: C0114: Missing module docstring (missing-module-docstring)
 ejemplo.py:2:0: C0116: Missing function or method docstring (missing-function-docstring)
+************* Module inicializador
+inicializador.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+inicializador.py:50:0: C0103: Constant name "base_dir" doesn't conform to UPPER_CASE naming style (invalid-name)
+inicializador.py:57:13: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+inicializador.py:61:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+inicializador.py:64:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
 ************* Module validador_post_correccion
 validador_post_correccion.py:1:0: C0114: Missing module docstring (missing-module-docstring)
 validador_post_correccion.py:6:0: C0116: Missing function or method docstring (missing-function-docstring)
@@ -29,5 +35,5 @@ enviar_a_ia.py:1:0: C0114: Missing module docstring (missing-module-docstring)
 enviar_a_ia.py:18:0: C0116: Missing function or method docstring (missing-function-docstring)
 
 -----------------------------------
-Your code has been rated at 8.46/10
+Your code has been rated at 8.30/10
 

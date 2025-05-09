@@ -2,7 +2,10 @@ import os
 
 estructura = {
     "core": [
-        ("planificador_autonomo.py", "# Coordina el flujo de planificación y ejecución\n"),
+        (
+            "planificador_autonomo.py",
+            "# Coordina el flujo de planificación y ejecución\n",
+        ),
         ("refinador_prompt.py", "# Refina el objetivo en subtareas concretas\n"),
         ("ejecutor_inteligente.py", "# Ejecuta cada subtarea según reglas o IA\n"),
         ("gestor_estado.py", "# Guarda logs y estado actual del sistema\n"),
@@ -12,10 +15,16 @@ estructura = {
         ("agente_tests.py", "# Genera y ejecuta tests automáticos\n"),
     ],
     "validadores": [
-        ("validador_post_correccion.py", "# Verifica si el código sigue siendo válido después de cambios\n"),
+        (
+            "validador_post_correccion.py",
+            "# Verifica si el código sigue siendo válido después de cambios\n",
+        ),
     ],
     "herramientas": [
-        ("analizador_codigo.py", "# Funciones auxiliares de análisis sintáctico/estático\n"),
+        (
+            "analizador_codigo.py",
+            "# Funciones auxiliares de análisis sintáctico/estático\n",
+        ),
         ("gestor_git.py", "# Utilidades para commit, push, branch, etc.\n"),
         ("generador_resumenes.py", "# Genera reportes compactos y claros\n"),
     ],
@@ -31,7 +40,10 @@ estructura = {
     ],
     "config": [
         ("config_global.yaml", "# Configuración general del sistema\n"),
-        ("config_mi_app.yaml", "# Configuración específica para el proyecto 'mi_app'\n"),
+        (
+            "config_mi_app.yaml",
+            "# Configuración específica para el proyecto 'mi_app'\n",
+        ),
     ],
 }
 

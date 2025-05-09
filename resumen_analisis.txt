@@ -18,7 +18,7 @@ enviar_a_ia.py:1:0: C0114: Missing module docstring (missing-module-docstring)
 enviar_a_ia.py:18:0: C0116: Missing function or method docstring (missing-function-docstring)
 
 -----------------------------------
-Your code has been rated at 8.46/10
+Your code has been rated at 8.30/10
 
 \n## flake8:
 ./aplicar_sugerencias.py:41:80: E501 line too long (87 > 79 characters)
@@ -27,12 +27,18 @@ Your code has been rated at 8.46/10
 ./enviar_a_ia.py:10:80: E501 line too long (102 > 79 characters)
 ./enviar_a_ia.py:12:80: E501 line too long (80 > 79 characters)
 ./enviar_a_ia.py:14:80: E501 line too long (94 > 79 characters)
+./inicializador.py:9:80: E501 line too long (81 > 79 characters)
+./inicializador.py:10:80: E501 line too long (83 > 79 characters)
+./inicializador.py:14:80: E501 line too long (87 > 79 characters)
+./inicializador.py:35:80: E501 line too long (80 > 79 characters)
+./inicializador.py:36:80: E501 line too long (83 > 79 characters)
+./inicializador.py:39:80: E501 line too long (86 > 79 characters)
 ./scanner_basico.py:38:80: E501 line too long (85 > 79 characters)
 ./scanner_basico.py:51:11: F541 f-string is missing placeholders
 ./scanner_basico.py:51:80: E501 line too long (83 > 79 characters)
 ./validador_post_correccion.py:9:9: F841 local variable 'result' is assigned to but never used
 ./validador_post_correccion.py:37:80: E501 line too long (83 > 79 characters)
-9     E501 line too long (87 > 79 characters)
+15    E501 line too long (87 > 79 characters)
 1     F541 f-string is missing placeholders
 1     F841 local variable 'result' is assigned to but never used
-11
+17
