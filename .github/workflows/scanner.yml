@@ -1,0 +1,27 @@
+name: Analizar código con escáner
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  escanear:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: Instalar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Ejecutar el escáner
+        run: python scanner_basico.py
+
+      - name: Subir reporte como artefacto
+        uses: actions/upload-artifact@v3
+        with:
+          name: reporte_analisis
+          path: reporte_analisis.json
