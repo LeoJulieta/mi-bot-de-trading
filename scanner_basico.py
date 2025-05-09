@@ -2,6 +2,9 @@ import os
 import ast
 import json
 
+IGNORAR_ARCHIVOS = {"scanner_basico.py", "enviar_a_ia.py"}
+IGNORAR_CARPETAS = {".git", ".github", "__pycache__"}
+
 def analizar_archivo(filepath):
     errores = []
     try:
@@ -17,16 +20,17 @@ def analizar_archivo(filepath):
         })
     except Exception as e:
         errores.append({
-            "tipo": "Otro error",
+            "tipo": "ErrorGeneral",
             "mensaje": str(e)
         })
     return errores
 
 def escanear_directorio(base_path):
     resultados = []
-    for root, _, files in os.walk(base_path):
+    for root, dirs, files in os.walk(base_path):
+        dirs[:] = [d for d in dirs if d not in IGNORAR_CARPETAS]
         for file in files:
-            if file.endswith(".py") and file != __file__:
+            if file.endswith(".py") and file not in IGNORAR_ARCHIVOS:
                 ruta_completa = os.path.join(root, file)
                 errores = analizar_archivo(ruta_completa)
                 if errores:
