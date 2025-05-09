@@ -3,7 +3,7 @@ name: Aplicar sugerencias de IA
 on:
   workflow_dispatch:
   push:
-    branches: [main]  # Opcional, si querés que se ejecute también en cada push
+    branches: [main]  # También se ejecuta al hacer push en main
 
 jobs:
   aplicar:
@@ -58,9 +58,9 @@ jobs:
           git config --global user.email "actions@github.com"
           git add -A
           git diff --cached --quiet || (
-            resumen=$(cat resumen_analisis.txt)
-            git commit -m "Aplicar sugerencias automáticas de IA
-
-          $resumen"
+            echo "Aplicar sugerencias automáticas de IA" > mensaje_commit.txt
+            echo "" >> mensaje_commit.txt
+            cat resumen_analisis.txt >> mensaje_commit.txt
+            git commit -F mensaje_commit.txt
           )
           git push
