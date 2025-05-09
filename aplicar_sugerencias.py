@@ -4,6 +4,7 @@ import re
 
 RUTA_REPORTE = "reporte_analisis.json"
 
+
 def aplicar_correcciones():
     if not os.path.exists(RUTA_REPORTE):
         print("No se encontró el archivo de reporte de análisis.")
@@ -36,14 +37,22 @@ def aplicar_correcciones():
                 original = nuevas_lineas[linea_idx]
 
                 if tipo == "SyntaxError":
-                    if re.match(r"^\s*(if|for|while|def|elif|else).*[^:]\s*$", original.strip()):
+                    if re.match(
+                        r"^\s*(if|for|while|def|elif|else).*[^:]\s*$", original.strip()
+                    ):
                         nuevas_lineas[linea_idx] = original.rstrip("\n") + ":\n"
                         cambios_realizados += 1
 
                 elif tipo == "NameError":
                     match = re.findall(r"\b([a-zA-Z_][a-zA-Z0-9_]*)\b", original)
                     for var in match:
-                        if var not in ("print", "range", "len", "int", "str"):  # funciones comunes
+                        if var not in (
+                            "print",
+                            "range",
+                            "len",
+                            "int",
+                            "str",
+                        ):  # funciones comunes
                             nueva_linea = f'{var} = "valor_autogenerado"\n'
                             nuevas_lineas.insert(linea_idx, nueva_linea)
                             offset += 1
@@ -62,6 +71,7 @@ def aplicar_correcciones():
             f.writelines(nuevas_lineas)
 
     print(f"Correcciones reales aplicadas en {cambios_realizados} líneas.")
+
 
 if __name__ == "__main__":
     aplicar_correcciones()

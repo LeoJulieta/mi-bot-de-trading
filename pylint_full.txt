@@ -1,0 +1,33 @@
+************* Module ejemplo
+ejemplo.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+ejemplo.py:2:0: C0116: Missing function or method docstring (missing-function-docstring)
+************* Module validador_post_correccion
+validador_post_correccion.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+validador_post_correccion.py:6:0: C0116: Missing function or method docstring (missing-function-docstring)
+validador_post_correccion.py:9:8: W0612: Unused variable 'result' (unused-variable)
+validador_post_correccion.py:24:0: C0116: Missing function or method docstring (missing-function-docstring)
+validador_post_correccion.py:36:0: C0116: Missing function or method docstring (missing-function-docstring)
+validador_post_correccion.py:48:0: C0116: Missing function or method docstring (missing-function-docstring)
+validador_post_correccion.py:53:8: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+************* Module aplicar_sugerencias
+aplicar_sugerencias.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+aplicar_sugerencias.py:8:0: C0116: Missing function or method docstring (missing-function-docstring)
+aplicar_sugerencias.py:8:0: R0914: Too many local variables (16/15) (too-many-locals)
+aplicar_sugerencias.py:18:4: R1702: Too many nested blocks (6/5) (too-many-nested-blocks)
+************* Module scanner_basico
+scanner_basico.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+scanner_basico.py:9:0: C0116: Missing function or method docstring (missing-function-docstring)
+scanner_basico.py:24:11: W0718: Catching too general exception Exception (broad-exception-caught)
+scanner_basico.py:29:0: C0116: Missing function or method docstring (missing-function-docstring)
+scanner_basico.py:30:4: W0621: Redefining name 'resultados' from outer scope (line 49) (redefined-outer-name)
+scanner_basico.py:42:0: C0116: Missing function or method docstring (missing-function-docstring)
+scanner_basico.py:42:23: W0621: Redefining name 'resultados' from outer scope (line 49) (redefined-outer-name)
+scanner_basico.py:51:10: W1309: Using an f-string that does not have any interpolated variables (f-string-without-interpolation)
+************* Module enviar_a_ia
+enviar_a_ia.py:10:0: C0301: Line too long (102/100) (line-too-long)
+enviar_a_ia.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+enviar_a_ia.py:18:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 8.46/10
+
