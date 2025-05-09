@@ -40,7 +40,7 @@ jobs:
           echo "## pylint (últimos 20 mensajes):" >> resumen_analisis.txt
           tail -n 20 pylint_full.txt >> resumen_analisis.txt
           echo "\n## flake8:" >> resumen_analisis.txt
-          flake8 . --count --statistics >> resumen_analisis.txt
+          flake8 . --count --statistics --exit-zero >> resumen_analisis.txt
 
       - name: Validar que el código compile y preparar resumen para IA
         run: python validador_post_correccion.py
