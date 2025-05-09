@@ -53,6 +53,8 @@ jobs:
           find . -type d -name "__pycache__" -exec rm -r {} +
 
       - name: Hacer commit y push de los cambios
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
@@ -63,4 +65,5 @@ jobs:
             cat resumen_analisis.txt >> mensaje_commit.txt
             git commit -F mensaje_commit.txt
           )
-          git push
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+          git push origin HEAD:${{ github.ref_name }}
