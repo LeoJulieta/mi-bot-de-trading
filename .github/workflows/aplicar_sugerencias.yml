@@ -2,6 +2,8 @@ name: Aplicar sugerencias de IA
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]  # Opcional, si querés que se ejecute también en cada push
 
 jobs:
   aplicar:
@@ -45,10 +47,15 @@ jobs:
       - name: Validar que el código compile y preparar resumen para IA
         run: python validador_post_correccion.py
 
+      - name: Limpiar archivos no deseados
+        run: |
+          find . -name "*.pyc" -delete
+          find . -type d -name "__pycache__" -exec rm -r {} +
+
       - name: Hacer commit y push de los cambios
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add .
+          git add -A
           git diff --cached --quiet || git commit -m "Aplicar sugerencias automáticas de IA"
           git push
