@@ -25,11 +25,25 @@ def aplicar_correcciones():
             lineas = f.readlines()
 
         for error in errores:
-            if error["tipo"] == "SyntaxError":
-                linea_idx = error["linea"] - 1
-                if linea_idx < len(lineas):
-                    # Agrega un comentario automático para marcar error
-                    lineas[linea_idx] = lineas[linea_idx].rstrip("\n") + "  # Posible error de sintaxis\n"
+            tipo = error["tipo"]
+            linea_idx = error["linea"] - 1
+
+            if 0 <= linea_idx < len(lineas):
+                comentario = ""
+
+                if tipo == "SyntaxError":
+                    comentario = "# Posible error de sintaxis"
+                elif tipo == "NameError":
+                    comentario = "# Posible variable o función no definida"
+                elif tipo == "IndentationError":
+                    comentario = "# Posible error de indentación"
+                elif tipo == "TypeError":
+                    comentario = "# Posible uso incorrecto de tipo de dato"
+                else:
+                    comentario = f"# Posible error detectado: {tipo}"
+
+                if comentario and comentario not in lineas[linea_idx]:
+                    lineas[linea_idx] = lineas[linea_idx].rstrip("\n") + f"  {comentario}\n"
                     cambios_realizados += 1
 
         with open(archivo, "w", encoding="utf-8") as f:
